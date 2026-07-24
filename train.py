@@ -36,7 +36,7 @@ def append_to_db(word_temp):
 
 
 def process_word(word):
-    reorder = sorted(word.rstrip())
+    reorder = sorted(word.rstrip().lower())
     sorted_word = ""
     for char in reorder:
         sorted_word = sorted_word + char
@@ -50,7 +50,7 @@ def main():
     if user_input.lower() == "f":
 
         source_name = input("Enter source name (Include extention) : ")
-        with open(source_name, "r") as file:
+        with open(source_name, "r", encoding="utf-8") as file:
             word_temp = []
             
             for word in file:
