@@ -1,34 +1,49 @@
 import json
+import time
+
+class Color:
+    RED = "\033[91m"
+    GREEN = "\033[92m"
+    YELLOW = "\033[93m"
+    BLUE = "\033[94m"
+    MAGENTA = "\033[95m"
+    CYAN = "\033[96m"
+    RESET = "\033[0m"
+    GRAY = "\033[90m"
 
 def loading_gui(total, completed):
-    print("\033[H\033[J", end="")
-    percentage = (completed / total )* 100
-    number = round(percentage/10)
-    print(f"{completed} / {total} completed")
+    percentage = (completed / total) * 100
+    filled = int(40 * percentage / 100)
+    bar = "█" * filled + "-" * (40 - filled)
+    print(f"\r{completed}/{total}{Color.GREEN} |{bar}| {Color.RESET}{percentage:5.1f}%\033[K", end="", flush=True)
 
 
 def append_to_db(word_temp):
-
     total_temp_len = len(word_temp)
     completed_temp = 0
+    skipped = 0
 
     with open("database.json") as database:
         database_snapshot = json.load(database)
 
         for word_obj in word_temp:
             current_char_length = str(word_obj["char_length"])
-            # Check if a word already exists in the DB.
             existing_words = database_snapshot.get(current_char_length, {}).get(word_obj["sorted_word"], [])
 
             if word_obj["word"] in existing_words:
-                print("Computer already knows this word ;)")
+                skipped += 1
+                completed_temp += 1
+                loading_gui(total_temp_len, completed_temp)
                 continue
 
             database_snapshot.setdefault(current_char_length, {}).setdefault(word_obj["sorted_word"], []).append(word_obj["word"])
 
-            completed_temp = completed_temp + 1
+            completed_temp += 1
             loading_gui(total_temp_len, completed_temp)
-            
+
+        print()  # move off the bar line now that we're done
+        if skipped:
+            print(f"Computer already knew {skipped} word(s), skipped them.")
 
         with open("database.json", "w") as database:
             json.dump(database_snapshot, database, indent=4)
@@ -44,21 +59,26 @@ def process_word(word):
         
 
 def main():
-    source_type = input("Is traning source a file or manual input? (f/m) : ")
+    source_type = input("Is training source a file or manual input? (f/m) : ")
+    start_time = ""
+    end_time = ""
 
     # if source is a traning file
     if source_type.lower() == "f":
         while True:
             try:
-                source_name = input("Enter source name (Include extention) : ")
+                source_name = input("Enter source name (Include extension) : ")
                 with open(source_name, "r", encoding="utf-8") as file:
                     word_temp = []
+                    start_time = time.time()
                     
                     for word in file:
                         # add new word to cache
                         word_temp.append(process_word(word))
                     append_to_db(word_temp)
-                    continue
+                    end_time = time.time()
+                    print(f"Took {end_time - start_time:.2f} seconds")
+                    break
 
             except FileNotFoundError:
                 print("Sorry Computer couldn't find this file :(")
