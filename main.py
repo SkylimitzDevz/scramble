@@ -24,10 +24,35 @@ def train_computer(word):
 
 
 def main():
+
+    print(f"{Color.GREEN}Hello! Welcome to Scramble \nYou Scramble, I guess!{Color.RESET}")
+    print(f"Use '/help' for more info")
+
     while True:
         print(f"{Color.GRAY}==============================={Color.RESET}")
         user_input = input(f"{Color.MAGENTA}Scramble a word! :{Color.RESET}").lower()
 
+        if user_input == "/help":
+            print(f"\n\n{Color.GREEN}================ HELP ================{Color.RESET}")
+            print("Here's how to play:")
+            print(f"- You can scramble a word and send it\n- The program will try to guess the word\n- You can also teach a word to the computer by sending in the new word\n{Color.CYAN}- You can also do a mini benchmark by training your computer on more words so it can be smarter!{Color.RESET}")
+
+            print(f"\n{Color.GREEN}How to Train!{Color.RESET}")
+            print("To train, exit this program first and use 'python train.py'\nAfter, choose 'file' by saying 'f'\nThen type in your preferred file.")
+            print("Available file:\n- 1K\n- 50K\n- 100K\n- 500K")
+            print("Run one as '1k_words.txt' and see how long it takes, and share the time!")
+            print("This is a CPU test")
+
+            print(f"{Color.GREEN}\nCOMMANDS{Color.RESET}\n- /exit - exit the program\n- /help - to get help")
+            print(f"{Color.GREEN}======================================{Color.RESET}")
+            continue
+
+        with open("database.json") as f:
+            db = json.load(f)
+        if not db:
+            print(f"{Color.RED}Database is empty{Color.RESET}\nPlease use 'python train.py'")
+            break
+        
         word_len = str(len(user_input))
         reorder = sorted(user_input)
         sorted_word = ""
@@ -36,7 +61,7 @@ def main():
 
         matches = get_matches(word_len, sorted_word)
 
-        if user_input == "exit":
+        if user_input == "/exit":
             break
 
         if matches == "404":
