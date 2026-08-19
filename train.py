@@ -1,15 +1,7 @@
 import json
 import time
-
-class Color:
-    RED = "\033[91m"
-    GREEN = "\033[92m"
-    YELLOW = "\033[93m"
-    BLUE = "\033[94m"
-    MAGENTA = "\033[95m"
-    CYAN = "\033[96m"
-    RESET = "\033[0m"
-    GRAY = "\033[90m"
+from utils import Color
+import traceback
 
 def loading_gui(total, completed):
     percentage = (completed / total) * 100
@@ -41,12 +33,10 @@ def append_to_db(word_temp):
             completed_temp += 1
             loading_gui(total_temp_len, completed_temp)
 
-        print()  # move off the bar line now that we're done
-        if skipped:
-            print(f"Computer already knew {skipped} word(s), skipped them.")
-
         with open("database.json", "w") as database:
             json.dump(database_snapshot, database, indent=4)
+
+        return {"skipped_words":skipped}
 
 
 def process_word(word):
@@ -54,30 +44,33 @@ def process_word(word):
     sorted_word = ""
     for char in sorted_word_char_array:
         sorted_word = sorted_word + char
-
     return {"sorted_word":sorted_word, "char_length":len(word.rstrip()), "word": word.rstrip().lower()}
-        
+
+
+def train_dataset(dataset):
+    start_time = ""
+    end_time = ""
+    word_temp = []
+    start_time = time.time()
+    for word in dataset:
+        word_temp.append(process_word(word))
+    output = append_to_db(word_temp)
+    end_time = time.time()
+    print()
+    if output["skipped_words"]:
+        print(f"Computer already knew {output["skipped_words"]} word(s), skipped them.")
+    print(f"{Color.GREEN}Took {end_time - start_time:.2f} seconds{Color.RESET}")
+
 
 def main():
     source_type = input("Is training source a file or manual input? (f/m) : ")
-    start_time = ""
-    end_time = ""
-
     # if source is a traning file
     if source_type.lower() == "f":
         while True:
             try:
                 source_name = input("Enter source name (Include extension) : ")
-                with open(source_name, "r", encoding="utf-8") as file:
-                    word_temp = []
-                    start_time = time.time()
-                    
-                    for word in file:
-                        # add new word to cache
-                        word_temp.append(process_word(word))
-                    append_to_db(word_temp)
-                    end_time = time.time()
-                    print(f"Took {end_time - start_time:.2f} seconds")
+                with open(source_name, "r", encoding="utf-8", errors="replace") as file:
+                    train_dataset(file)
                     break
 
             except FileNotFoundError:
@@ -92,9 +85,7 @@ def main():
     # if source is a manual word input
     elif source_type.lower() == "m":
         word = input("Enter one word you want to teach computer: ")
-        cache = process_word(word)
-        print(cache)
-        append_to_db([cache])
+        train_dataset([word])
 
     else:
         print("Hmm I didn't quite get that...")
@@ -102,9 +93,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-if __name__ == "__append_to_db__":
-    append_to_db()
-
-if __name__ == "__process_word__":
-    process_word()

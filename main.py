@@ -1,16 +1,8 @@
 import json
-from train import process_word
-from train import append_to_db
-
-class Color:
-    RED = "\033[91m"
-    GREEN = "\033[92m"
-    YELLOW = "\033[93m"
-    BLUE = "\033[94m"
-    MAGENTA = "\033[95m"
-    CYAN = "\033[96m"
-    RESET = "\033[0m"
-    GRAY = "\033[90m"
+from utils import help_message, process_search_query
+from train import append_to_db, process_word
+from utils import Color
+import time
 
 def train_computer(word):
     try:
@@ -22,29 +14,19 @@ def train_computer(word):
         print(f"Something went wrong: {e}")
         return
 
-
 def main():
-
     print(f"{Color.GREEN}Hello! Welcome to Scramble \nYou Scramble, I guess!{Color.RESET}")
     print(f"Use '/help' for more info")
 
     while True:
+        start_time = ""
+        end_time = ""
+
         print(f"{Color.GRAY}==============================={Color.RESET}")
-        user_input = input(f"{Color.MAGENTA}Scramble a word! :{Color.RESET}").lower()
+        scrambled_input = input(f"{Color.MAGENTA}Scramble a word!: {Color.RESET}").lower()
 
-        if user_input == "/help":
-            print(f"\n\n{Color.GREEN}================ HELP ================{Color.RESET}")
-            print("Here's how to play:")
-            print(f"- You can scramble a word and send it\n- The program will try to guess the word\n- You can also teach a word to the computer by sending in the new word\n{Color.CYAN}- You can also do a mini benchmark by training your computer on more words so it can be smarter!{Color.RESET}")
-
-            print(f"\n{Color.GREEN}How to Train!{Color.RESET}")
-            print("To train, exit this program first and use 'python train.py'\nAfter, choose 'file' by saying 'f'\nThen type in your preferred file.")
-            print("Available file:\n- 1K\n- 50K\n- 100K\n- 500K")
-            print("Run one as '1k_words.txt' and see how long it takes, and share the time!")
-            print("This is a CPU test")
-
-            print(f"{Color.GREEN}\nCOMMANDS{Color.RESET}\n- /exit - exit the program\n- /help - to get help")
-            print(f"{Color.GREEN}======================================{Color.RESET}")
+        if scrambled_input == "/help":
+            help_message()
             continue
 
         with open("database.json") as f:
@@ -52,30 +34,30 @@ def main():
         if not db:
             print(f"{Color.RED}Database is empty{Color.RESET}\nPlease use 'python train.py'")
             break
-        
-        word_len = str(len(user_input))
-        reorder = sorted(user_input)
-        sorted_word = ""
-        for char in reorder:
-            sorted_word = sorted_word + char
 
-        matches = get_matches(word_len, sorted_word)
-
-        if user_input == "/exit":
+        if scrambled_input == "/exit":
             break
+        
+        [sorted_word, word_len] = process_search_query(scrambled_input)
+
+        start_time = time.time()
+        matches = get_matches(word_len, sorted_word)
+        end_time = time.time()
+
 
         if matches == "404":
             print(f"{Color.RED}Computer don't know word :({Color.RESET}")
-            teach = input("Do you want to teach computer new word? (y/n) :")
+            teach = input("Do you want to teach computer a new word? (y/n): ")
 
             if teach.lower() == "y":
-                word = input("Yay tell me the new word! :")
+                word = input("Yay tell me the new word!: ")
                 train_computer(word)
                 continue
             else:
                 print("Okay... :(")
                 continue
 
+        print(f"{Color.GRAY}Took {end_time - start_time:.2f} seconds{Color.RESET}")
 
         if len(matches) > 1:
             print(f"{Color.YELLOW}Computer found many, Computer confused, Computer don't know correct :({Color.RESET}")
@@ -88,15 +70,20 @@ def main():
             print(f"{Color.GREEN}YAY COMPUTER KNOW WORDDD :){Color.RESET}")
             print(f"{Color.CYAN}MATCH:{Color.RESET} {word}")
 
+def lookup_matches(db, word_len, sorted_word):
+    return db.get(word_len, {}).get(sorted_word, []) 
 
 def get_matches(word_len, sorted_word):
     with open("database.json") as database:
-        database_snapshot = json.load(database)
+        db = json.load(database)
+
         try:
-            matches = database_snapshot[word_len][sorted_word]
-            return matches
+            matches = lookup_matches(db, word_len, sorted_word)
+            if not matches:
+                return "404"
+            return matches 
             
-        except:
-            return "404"
+        except Exception as e:
+            print(e)
 
 main()
