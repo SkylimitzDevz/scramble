@@ -36,5 +36,47 @@ def main():
     test = process_search_query("lleho")
     print(test)
 
+def print_hr(name="", length=32, return_permission=False):
+    current_length = length
+    final_print = ""
+    if name:
+        current_length = (current_length - len(name)) - 2
+        if not current_length % 2 == 0:
+            current_length = current_length - 1
+        hr = "=" * (current_length // 2)
+        final_print = (f"{hr} {name} {hr}")
+    else:
+        final_print = ("=" * current_length)
+
+    return final_print if return_permission else print(final_print)
+
+def color_print(color, text):
+    color_code = getattr(Color, str(color).upper(), None)
+    if color_code and color_code != Color.RESET:
+        print(f"{color_code}{text}{Color.RESET}")
+    else:
+        print(text)
+
+
+def find_best_match(wordList):
+    max = { "word": "", "score": 0 }
+    isAllEqual = True
+
+    if not wordList:
+        raise ValueError("Input cannot be empty.")
+        
+    for word in wordList:
+
+        if word["score"] > max["score"]:
+            max = word
+
+        if word["score"] != max["score"]:
+            isAllEqual = False
+
+    if isAllEqual:
+        return wordList
+    else:
+        return max
+
 if __name__ == "__main__":
     main()

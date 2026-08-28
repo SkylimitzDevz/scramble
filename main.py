@@ -1,5 +1,5 @@
 import json
-from utils import help_message, process_search_query
+from utils import help_message, process_search_query, print_hr, find_best_match
 from train import append_to_db, process_word
 from utils import Color
 import time
@@ -22,7 +22,7 @@ def main():
         start_time = ""
         end_time = ""
 
-        print(f"{Color.GRAY}==============================={Color.RESET}")
+        print_hr("START", 32)
         scrambled_input = input(f"{Color.MAGENTA}Scramble a word!: {Color.RESET}").lower()
 
         if scrambled_input == "/help":
@@ -44,6 +44,7 @@ def main():
         matches = get_matches(word_len, sorted_word)
         end_time = time.time()
 
+        print("matches: ",matches)
 
         if matches == "404":
             print(f"{Color.RED}Computer don't know word :({Color.RESET}")
@@ -62,23 +63,27 @@ def main():
         if len(matches) > 1:
             print(f"{Color.YELLOW}Computer found many, Computer confused, Computer don't know correct :({Color.RESET}")
             print(f"{len(matches)} found")
-            for word in matches:
-                print(f"{Color.CYAN}{word}{Color.RESET}")
+
+            new_matches = find_best_match(matches)
+            if len(new_matches) > 1:
+                print(new_matches)
+
+            if len(matches == 1):
+                print("Match: ",new_matches[0])
+
             continue
 
-        for word in matches:
-            print(f"{Color.GREEN}YAY COMPUTER KNOW WORDDD :){Color.RESET}")
-            print(f"{Color.CYAN}MATCH:{Color.RESET} {word}")
+        for word_obj in matches:
+            print(f"{Color.CYAN}MATCH:{Color.RESET} {word_obj["word"]}")
 
-def lookup_matches(db, word_len, sorted_word):
-    return db.get(word_len, {}).get(sorted_word, []) 
+extract_matches = lambda db, word_len, sorted_word: db.get(word_len, {}).get(sorted_word, [])
 
 def get_matches(word_len, sorted_word):
     with open("database.json") as database:
         db = json.load(database)
 
         try:
-            matches = lookup_matches(db, word_len, sorted_word)
+            matches = extract_matches(db, word_len, sorted_word)
             if not matches:
                 return "404"
             return matches 

@@ -27,8 +27,8 @@ def append_to_db(word_temp):
                 completed_temp += 1
                 loading_gui(total_temp_len, completed_temp)
                 continue
-
-            database_snapshot.setdefault(current_char_length, {}).setdefault(word_obj["sorted_word"], []).append(word_obj["word"])
+            new_word = {"word":word_obj["word"], "score":0}
+            database_snapshot.setdefault(current_char_length, {}).setdefault(word_obj["sorted_word"], []).append(new_word)
 
             completed_temp += 1
             loading_gui(total_temp_len, completed_temp)

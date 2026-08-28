@@ -1,2950 +1,5944 @@
 {
     "3": {
         "eht": [
-            "the"
+            {
+                "word": "the",
+                "score": 0
+            }
         ],
         "adn": [
-            "and"
+            {
+                "word": "and",
+                "score": 0
+            }
         ],
         "ouy": [
-            "you"
+            {
+                "word": "you",
+                "score": 0
+            }
         ],
         "asw": [
-            "was",
-            "saw"
+            {
+                "word": "was",
+                "score": 0
+            },
+            {
+                "word": "saw",
+                "score": 0
+            }
         ],
         "for": [
-            "for"
+            {
+                "word": "for",
+                "score": 0
+            }
         ],
         "aer": [
-            "are",
-            "ear"
+            {
+                "word": "are",
+                "score": 0
+            },
+            {
+                "word": "ear",
+                "score": 0
+            }
         ],
         "his": [
-            "his"
+            {
+                "word": "his",
+                "score": 0
+            }
         ],
         "eno": [
-            "one"
+            {
+                "word": "one",
+                "score": 0
+            }
         ],
         "adh": [
-            "had"
+            {
+                "word": "had",
+                "score": 0
+            }
         ],
         "btu": [
-            "but"
+            {
+                "word": "but",
+                "score": 0
+            }
         ],
         "acn": [
-            "can"
+            {
+                "word": "can",
+                "score": 0
+            }
         ],
         "otu": [
-            "out"
+            {
+                "word": "out",
+                "score": 0
+            }
         ],
         "all": [
-            "all"
+            {
+                "word": "all",
+                "score": 0
+            }
         ],
         "esu": [
-            "use"
+            {
+                "word": "use",
+                "score": 0
+            }
         ],
         "how": [
-            "how",
-            "who"
+            {
+                "word": "how",
+                "score": 0
+            },
+            {
+                "word": "who",
+                "score": 0
+            }
         ],
         "ehs": [
-            "she"
+            {
+                "word": "she",
+                "score": 0
+            }
         ],
         "awy": [
-            "way"
+            {
+                "word": "way",
+                "score": 0
+            }
         ],
         "ehr": [
-            "her"
+            {
+                "word": "her",
+                "score": 0
+            }
         ],
         "ees": [
-            "see"
+            {
+                "word": "see",
+                "score": 0
+            }
         ],
         "him": [
-            "him"
+            {
+                "word": "him",
+                "score": 0
+            }
         ],
         "otw": [
-            "two"
+            {
+                "word": "two",
+                "score": 0
+            }
         ],
         "ahs": [
-            "has"
+            {
+                "word": "has",
+                "score": 0
+            }
         ],
         "ady": [
-            "day"
+            {
+                "word": "day",
+                "score": 0
+            }
         ],
         "ddi": [
-            "did"
+            {
+                "word": "did",
+                "score": 0
+            }
         ],
         "amy": [
-            "may"
+            {
+                "word": "may",
+                "score": 0
+            }
         ],
         "now": [
-            "now",
-            "own"
+            {
+                "word": "now",
+                "score": 0
+            },
+            {
+                "word": "own",
+                "score": 0
+            }
         ],
         "any": [
-            "any"
+            {
+                "word": "any",
+                "score": 0
+            }
         ],
         "enw": [
-            "new"
+            {
+                "word": "new",
+                "score": 0
+            }
         ],
         "egt": [
-            "get"
+            {
+                "word": "get",
+                "score": 0
+            }
         ],
         "amn": [
-            "man"
+            {
+                "word": "man",
+                "score": 0
+            }
         ],
         "oru": [
-            "our"
+            {
+                "word": "our",
+                "score": 0
+            }
         ],
         "asy": [
-            "say"
+            {
+                "word": "say",
+                "score": 0
+            }
         ],
         "low": [
-            "low"
+            {
+                "word": "low",
+                "score": 0
+            }
         ],
         "boy": [
-            "boy"
+            {
+                "word": "boy",
+                "score": 0
+            }
         ],
         "dlo": [
-            "old"
+            {
+                "word": "old",
+                "score": 0
+            }
         ],
         "oot": [
-            "too"
+            {
+                "word": "too",
+                "score": 0
+            }
         ],
         "est": [
-            "set"
+            {
+                "word": "set",
+                "score": 0
+            }
         ],
         "air": [
-            "air"
+            {
+                "word": "air",
+                "score": 0
+            }
         ],
         "den": [
-            "end"
+            {
+                "word": "end",
+                "score": 0
+            }
         ],
         "ptu": [
-            "put"
+            {
+                "word": "put",
+                "score": 0
+            }
         ],
         "add": [
-            "add",
-            "dad"
+            {
+                "word": "add",
+                "score": 0
+            },
+            {
+                "word": "dad",
+                "score": 0
+            }
         ],
         "bgi": [
-            "big"
+            {
+                "word": "big",
+                "score": 0
+            }
         ],
         "act": [
-            "act",
-            "cat"
+            {
+                "word": "act",
+                "score": 0
+            },
+            {
+                "word": "cat",
+                "score": 0
+            }
         ],
         "hwy": [
-            "why"
+            {
+                "word": "why",
+                "score": 0
+            }
         ],
         "aks": [
-            "ask"
+            {
+                "word": "ask",
+                "score": 0
+            }
         ],
         "emn": [
-            "men"
+            {
+                "word": "men",
+                "score": 0
+            }
         ],
         "ffo": [
-            "off"
+            {
+                "word": "off",
+                "score": 0
+            }
         ],
         "rty": [
-            "try"
+            {
+                "word": "try",
+                "score": 0
+            }
         ],
         "nsu": [
-            "sun"
+            {
+                "word": "sun",
+                "score": 0
+            }
         ],
         "eey": [
-            "eye"
+            {
+                "word": "eye",
+                "score": 0
+            }
         ],
         "elt": [
-            "let"
+            {
+                "word": "let",
+                "score": 0
+            }
         ],
         "afr": [
-            "far"
+            {
+                "word": "far",
+                "score": 0
+            }
         ],
         "aes": [
-            "sea"
+            {
+                "word": "sea",
+                "score": 0
+            }
         ],
         "nru": [
-            "run"
+            {
+                "word": "run",
+                "score": 0
+            }
         ],
         "efw": [
-            "few"
+            {
+                "word": "few",
+                "score": 0
+            }
         ],
         "got": [
-            "got"
+            {
+                "word": "got",
+                "score": 0
+            }
         ],
         "acr": [
-            "car"
+            {
+                "word": "car",
+                "score": 0
+            }
         ],
         "aet": [
-            "eat"
+            {
+                "word": "eat",
+                "score": 0
+            }
         ],
         "ctu": [
-            "cut"
+            {
+                "word": "cut",
+                "score": 0
+            }
         ],
         "der": [
-            "red"
+            {
+                "word": "red",
+                "score": 0
+            }
         ],
         "dgo": [
-            "dog"
+            {
+                "word": "dog",
+                "score": 0
+            }
         ],
         "opt": [
-            "top"
+            {
+                "word": "top",
+                "score": 0
+            }
         ],
         "isx": [
-            "six"
+            {
+                "word": "six",
+                "score": 0
+            }
         ],
         "ent": [
-            "ten"
+            {
+                "word": "ten",
+                "score": 0
+            }
         ],
         "arw": [
-            "war"
+            {
+                "word": "war",
+                "score": 0
+            }
         ],
         "aly": [
-            "lay"
+            {
+                "word": "lay",
+                "score": 0
+            }
         ],
         "amp": [
-            "map"
+            {
+                "word": "map",
+                "score": 0
+            }
         ],
         "fly": [
-            "fly"
+            {
+                "word": "fly",
+                "score": 0
+            }
         ],
         "cry": [
-            "cry"
+            {
+                "word": "cry",
+                "score": 0
+            }
         ],
         "box": [
-            "box"
+            {
+                "word": "box",
+                "score": 0
+            }
         ],
         "dry": [
-            "dry"
+            {
+                "word": "dry",
+                "score": 0
+            }
         ],
         "ago": [
-            "ago"
+            {
+                "word": "ago",
+                "score": 0
+            }
         ],
         "anr": [
-            "ran"
+            {
+                "word": "ran",
+                "score": 0
+            }
         ],
         "hot": [
-            "hot"
+            {
+                "word": "hot",
+                "score": 0
+            }
         ],
         "esy": [
-            "yes"
+            {
+                "word": "yes",
+                "score": 0
+            }
         ],
         "ety": [
-            "yet"
+            {
+                "word": "yet",
+                "score": 0
+            }
         ],
         "amr": [
-            "arm"
+            {
+                "word": "arm",
+                "score": 0
+            }
         ],
         "cei": [
-            "ice"
+            {
+                "word": "ice",
+                "score": 0
+            }
         ],
         "art": [
-            "art"
+            {
+                "word": "art",
+                "score": 0
+            }
         ],
         "bde": [
-            "bed"
+            {
+                "word": "bed",
+                "score": 0
+            }
         ],
         "egg": [
-            "egg"
+            {
+                "word": "egg",
+                "score": 0
+            }
         ],
         "ist": [
-            "sit"
+            {
+                "word": "sit",
+                "score": 0
+            }
         ],
         "egl": [
-            "leg"
+            {
+                "word": "leg",
+                "score": 0
+            }
         ],
         "ksy": [
-            "sky"
+            {
+                "word": "sky",
+                "score": 0
+            }
         ],
         "joy": [
-            "joy"
+            {
+                "word": "joy",
+                "score": 0
+            }
         ],
         "ast": [
-            "sat"
+            {
+                "word": "sat",
+                "score": 0
+            }
         ],
         "cow": [
-            "cow"
+            {
+                "word": "cow",
+                "score": 0
+            }
         ],
         "bjo": [
-            "job"
+            {
+                "word": "job",
+                "score": 0
+            }
         ],
         "fnu": [
-            "fun"
+            {
+                "word": "fun",
+                "score": 0
+            }
         ],
         "ags": [
-            "gas"
+            {
+                "word": "gas",
+                "score": 0
+            }
         ],
         "buy": [
-            "buy"
+            {
+                "word": "buy",
+                "score": 0
+            }
         ],
         "alw": [
-            "law"
+            {
+                "word": "law",
+                "score": 0
+            }
         ],
         "bit": [
-            "bit"
+            {
+                "word": "bit",
+                "score": 0
+            }
         ],
         "eil": [
-            "lie"
+            {
+                "word": "lie",
+                "score": 0
+            }
         ],
         "nos": [
-            "son"
+            {
+                "word": "son",
+                "score": 0
+            }
         ],
         "apy": [
-            "pay"
+            {
+                "word": "pay",
+                "score": 0
+            }
         ],
         "aeg": [
-            "age"
+            {
+                "word": "age",
+                "score": 0
+            }
         ],
         "lot": [
-            "lot"
+            {
+                "word": "lot",
+                "score": 0
+            }
         ],
         "eky": [
-            "key"
+            {
+                "word": "key",
+                "score": 0
+            }
         ],
         "orw": [
-            "row"
+            {
+                "word": "row",
+                "score": 0
+            }
         ],
         "dei": [
-            "die"
+            {
+                "word": "die",
+                "score": 0
+            }
         ],
         "abd": [
-            "bad"
+            {
+                "word": "bad",
+                "score": 0
+            }
         ],
         "ilo": [
-            "oil"
+            {
+                "word": "oil",
+                "score": 0
+            }
         ],
         "imx": [
-            "mix"
+            {
+                "word": "mix",
+                "score": 0
+            }
         ],
         "fit": [
-            "fit"
+            {
+                "word": "fit",
+                "score": 0
+            }
         ],
         "hit": [
-            "hit"
+            {
+                "word": "hit",
+                "score": 0
+            }
         ],
         "abt": [
-            "bat"
+            {
+                "word": "bat",
+                "score": 0
+            }
         ],
         "bru": [
-            "rub"
+            {
+                "word": "rub",
+                "score": 0
+            }
         ],
         "eit": [
-            "tie"
+            {
+                "word": "tie",
+                "score": 0
+            }
         ],
         "gnu": [
-            "gun"
+            {
+                "word": "gun",
+                "score": 0
+            }
         ],
         "aht": [
-            "hat"
+            {
+                "word": "hat",
+                "score": 0
+            }
         ],
         "fgi": [
-            "fig"
+            {
+                "word": "fig",
+                "score": 0
+            }
         ],
         "del": [
-            "led"
+            {
+                "word": "led",
+                "score": 0
+            }
         ],
         "inw": [
-            "win"
+            {
+                "word": "win",
+                "score": 0
+            }
         ],
         "nor": [
-            "nor"
+            {
+                "word": "nor",
+                "score": 0
+            }
         ],
         "aft": [
-            "fat"
+            {
+                "word": "fat",
+                "score": 0
+            }
         ],
         "abr": [
-            "bar"
+            {
+                "word": "bar",
+                "score": 0
+            }
         ],
         "glo": [
-            "log"
+            {
+                "word": "log",
+                "score": 0
+            }
         ]
     },
     "2": {
         "fo": [
-            "of"
+            {
+                "word": "of",
+                "score": 0
+            }
         ],
         "ot": [
-            "to"
+            {
+                "word": "to",
+                "score": 0
+            }
         ],
         "in": [
-            "in"
+            {
+                "word": "in",
+                "score": 0
+            }
         ],
         "is": [
-            "is"
+            {
+                "word": "is",
+                "score": 0
+            }
         ],
         "it": [
-            "it"
+            {
+                "word": "it",
+                "score": 0
+            }
         ],
         "eh": [
-            "he"
+            {
+                "word": "he",
+                "score": 0
+            }
         ],
         "no": [
-            "on",
-            "no"
+            {
+                "word": "on",
+                "score": 0
+            },
+            {
+                "word": "no",
+                "score": 0
+            }
         ],
         "as": [
-            "as"
+            {
+                "word": "as",
+                "score": 0
+            }
         ],
         "be": [
-            "be"
+            {
+                "word": "be",
+                "score": 0
+            }
         ],
         "at": [
-            "at"
+            {
+                "word": "at",
+                "score": 0
+            }
         ],
         "or": [
-            "or"
+            {
+                "word": "or",
+                "score": 0
+            }
         ],
         "by": [
-            "by"
+            {
+                "word": "by",
+                "score": 0
+            }
         ],
         "ew": [
-            "we"
+            {
+                "word": "we",
+                "score": 0
+            }
         ],
         "pu": [
-            "up"
+            {
+                "word": "up",
+                "score": 0
+            }
         ],
         "an": [
-            "an"
+            {
+                "word": "an",
+                "score": 0
+            }
         ],
         "do": [
-            "do"
+            {
+                "word": "do",
+                "score": 0
+            }
         ],
         "fi": [
-            "if"
+            {
+                "word": "if",
+                "score": 0
+            }
         ],
         "os": [
-            "so"
+            {
+                "word": "so",
+                "score": 0
+            }
         ],
         "go": [
-            "go"
+            {
+                "word": "go",
+                "score": 0
+            }
         ],
         "my": [
-            "my"
+            {
+                "word": "my",
+                "score": 0
+            }
         ],
         "em": [
-            "me"
+            {
+                "word": "me",
+                "score": 0
+            }
         ],
         "su": [
-            "us"
+            {
+                "word": "us",
+                "score": 0
+            }
         ],
         "ho": [
-            "oh"
+            {
+                "word": "oh",
+                "score": 0
+            }
         ],
         "am": [
-            "am"
+            {
+                "word": "am",
+                "score": 0
+            }
         ]
     },
     "1": {
         "a": [
-            "a"
+            {
+                "word": "a",
+                "score": 0
+            }
         ],
         "i": [
-            "i"
+            {
+                "word": "i",
+                "score": 0
+            }
         ]
     },
     "4": {
         "ahtt": [
-            "that"
+            {
+                "word": "that",
+                "score": 0
+            }
         ],
         "hitw": [
-            "with"
+            {
+                "word": "with",
+                "score": 0
+            }
         ],
         "ehty": [
-            "they"
+            {
+                "word": "they",
+                "score": 0
+            }
         ],
         "aehv": [
-            "have"
+            {
+                "word": "have",
+                "score": 0
+            }
         ],
         "hist": [
-            "this"
+            {
+                "word": "this",
+                "score": 0
+            }
         ],
         "fmor": [
-            "from",
-            "form"
+            {
+                "word": "from",
+                "score": 0
+            },
+            {
+                "word": "form",
+                "score": 0
+            }
         ],
         "dorw": [
-            "word"
+            {
+                "word": "word",
+                "score": 0
+            }
         ],
         "ahtw": [
-            "what"
+            {
+                "word": "what",
+                "score": 0
+            }
         ],
         "emos": [
-            "some"
+            {
+                "word": "some",
+                "score": 0
+            }
         ],
         "eerw": [
-            "were"
+            {
+                "word": "were",
+                "score": 0
+            }
         ],
         "ehnw": [
-            "when"
+            {
+                "word": "when",
+                "score": 0
+            }
         ],
         "oruy": [
-            "your"
+            {
+                "word": "your",
+                "score": 0
+            }
         ],
         "adis": [
-            "said"
+            {
+                "word": "said",
+                "score": 0
+            }
         ],
         "aceh": [
-            "each"
+            {
+                "word": "each",
+                "score": 0
+            }
         ],
         "eimt": [
-            "time"
+            {
+                "word": "time",
+                "score": 0
+            }
         ],
         "illw": [
-            "will"
+            {
+                "word": "will",
+                "score": 0
+            }
         ],
         "amny": [
-            "many"
+            {
+                "word": "many",
+                "score": 0
+            }
         ],
         "ehnt": [
-            "then"
+            {
+                "word": "then",
+                "score": 0
+            }
         ],
         "ehmt": [
-            "them"
+            {
+                "word": "them",
+                "score": 0
+            }
         ],
         "eikl": [
-            "like"
+            {
+                "word": "like",
+                "score": 0
+            }
         ],
         "glno": [
-            "long"
+            {
+                "word": "long",
+                "score": 0
+            }
         ],
         "aekm": [
-            "make"
+            {
+                "word": "make",
+                "score": 0
+            }
         ],
         "kloo": [
-            "look"
+            {
+                "word": "look",
+                "score": 0
+            }
         ],
         "emor": [
-            "more"
+            {
+                "word": "more",
+                "score": 0
+            }
         ],
         "cemo": [
-            "come"
+            {
+                "word": "come",
+                "score": 0
+            }
         ],
         "most": [
-            "most"
+            {
+                "word": "most",
+                "score": 0
+            }
         ],
         "eorv": [
-            "over"
+            {
+                "word": "over",
+                "score": 0
+            }
         ],
         "know": [
-            "know"
+            {
+                "word": "know",
+                "score": 0
+            }
         ],
         "ahnt": [
-            "than"
+            {
+                "word": "than",
+                "score": 0
+            }
         ],
         "acll": [
-            "call"
+            {
+                "word": "call",
+                "score": 0
+            }
         ],
         "dnow": [
-            "down"
+            {
+                "word": "down",
+                "score": 0
+            }
         ],
         "deis": [
-            "side"
+            {
+                "word": "side",
+                "score": 0
+            }
         ],
         "been": [
-            "been"
+            {
+                "word": "been",
+                "score": 0
+            }
         ],
         "dfin": [
-            "find"
+            {
+                "word": "find",
+                "score": 0
+            }
         ],
         "korw": [
-            "work"
+            {
+                "word": "work",
+                "score": 0
+            }
         ],
         "aprt": [
-            "part"
+            {
+                "word": "part",
+                "score": 0
+            }
         ],
         "aekt": [
-            "take"
+            {
+                "word": "take",
+                "score": 0
+            }
         ],
         "adem": [
-            "made"
+            {
+                "word": "made",
+                "score": 0
+            }
         ],
         "eilv": [
-            "live"
+            {
+                "word": "live",
+                "score": 0
+            }
         ],
         "abck": [
-            "back"
+            {
+                "word": "back",
+                "score": 0
+            }
         ],
         "lnoy": [
-            "only"
+            {
+                "word": "only",
+                "score": 0
+            }
         ],
         "aery": [
-            "year"
+            {
+                "word": "year",
+                "score": 0
+            }
         ],
         "acem": [
-            "came"
+            {
+                "word": "came",
+                "score": 0
+            }
         ],
         "hosw": [
-            "show"
+            {
+                "word": "show",
+                "score": 0
+            }
         ],
         "dgoo": [
-            "good"
+            {
+                "word": "good",
+                "score": 0
+            }
         ],
         "egiv": [
-            "give"
+            {
+                "word": "give",
+                "score": 0
+            }
         ],
         "aemn": [
-            "name",
-            "mean"
+            {
+                "word": "name",
+                "score": 0
+            },
+            {
+                "word": "mean",
+                "score": 0
+            }
         ],
         "ervy": [
-            "very"
+            {
+                "word": "very",
+                "score": 0
+            }
         ],
         "jstu": [
-            "just"
+            {
+                "word": "just",
+                "score": 0
+            }
         ],
         "ehlp": [
-            "help"
+            {
+                "word": "help",
+                "score": 0
+            }
         ],
         "eiln": [
-            "line"
+            {
+                "word": "line",
+                "score": 0
+            }
         ],
         "nrtu": [
-            "turn"
+            {
+                "word": "turn",
+                "score": 0
+            }
         ],
         "chmu": [
-            "much"
+            {
+                "word": "much",
+                "score": 0
+            }
         ],
         "emov": [
-            "move"
+            {
+                "word": "move",
+                "score": 0
+            }
         ],
         "aems": [
-            "same"
+            {
+                "word": "same",
+                "score": 0
+            }
         ],
         "ellt": [
-            "tell"
+            {
+                "word": "tell",
+                "score": 0
+            }
         ],
         "deos": [
-            "does"
+            {
+                "word": "does",
+                "score": 0
+            }
         ],
         "antw": [
-            "want"
+            {
+                "word": "want",
+                "score": 0
+            }
         ],
         "ellw": [
-            "well"
+            {
+                "word": "well",
+                "score": 0
+            }
         ],
         "alos": [
-            "also"
+            {
+                "word": "also",
+                "score": 0
+            }
         ],
         "alpy": [
-            "play"
+            {
+                "word": "play",
+                "score": 0
+            }
         ],
         "ehmo": [
-            "home"
+            {
+                "word": "home",
+                "score": 0
+            }
         ],
         "ader": [
-            "read",
-            "dear"
+            {
+                "word": "read",
+                "score": 0
+            },
+            {
+                "word": "dear",
+                "score": 0
+            }
         ],
         "adhn": [
-            "hand"
+            {
+                "word": "hand",
+                "score": 0
+            }
         ],
         "oprt": [
-            "port"
+            {
+                "word": "port",
+                "score": 0
+            }
         ],
         "eenv": [
-            "even"
+            {
+                "word": "even",
+                "score": 0
+            }
         ],
         "adln": [
-            "land"
+            {
+                "word": "land",
+                "score": 0
+            }
         ],
         "eehr": [
-            "here"
+            {
+                "word": "here",
+                "score": 0
+            }
         ],
         "mstu": [
-            "must"
+            {
+                "word": "must",
+                "score": 0
+            }
         ],
         "ghhi": [
-            "high"
+            {
+                "word": "high",
+                "score": 0
+            }
         ],
         "chsu": [
-            "such"
+            {
+                "word": "such",
+                "score": 0
+            }
         ],
         "entw": [
-            "went"
+            {
+                "word": "went",
+                "score": 0
+            }
         ],
         "dikn": [
-            "kind"
+            {
+                "word": "kind",
+                "score": 0
+            }
         ],
         "deen": [
-            "need"
+            {
+                "word": "need",
+                "score": 0
+            }
         ],
         "aenr": [
-            "near"
+            {
+                "word": "near",
+                "score": 0
+            }
         ],
         "efls": [
-            "self"
+            {
+                "word": "self",
+                "score": 0
+            }
         ],
         "adeh": [
-            "head"
+            {
+                "word": "head",
+                "score": 0
+            }
         ],
         "aegp": [
-            "page"
+            {
+                "word": "page",
+                "score": 0
+            }
         ],
         "gorw": [
-            "grow"
+            {
+                "word": "grow",
+                "score": 0
+            }
         ],
         "dfoo": [
-            "food"
+            {
+                "word": "food",
+                "score": 0
+            }
         ],
         "foru": [
-            "four"
+            {
+                "word": "four",
+                "score": 0
+            }
         ],
         "eekp": [
-            "keep"
+            {
+                "word": "keep",
+                "score": 0
+            }
         ],
         "alst": [
-            "last",
-            "salt"
+            {
+                "word": "last",
+                "score": 0
+            },
+            {
+                "word": "salt",
+                "score": 0
+            }
         ],
         "city": [
-            "city"
+            {
+                "word": "city",
+                "score": 0
+            }
         ],
         "eert": [
-            "tree"
+            {
+                "word": "tree",
+                "score": 0
+            }
         ],
         "afmr": [
-            "farm"
+            {
+                "word": "farm",
+                "score": 0
+            }
         ],
         "adhr": [
-            "hard"
+            {
+                "word": "hard",
+                "score": 0
+            }
         ],
         "adrw": [
-            "draw"
+            {
+                "word": "draw",
+                "score": 0
+            }
         ],
         "eflt": [
-            "left",
-            "felt"
+            {
+                "word": "left",
+                "score": 0
+            },
+            {
+                "word": "felt",
+                "score": 0
+            }
         ],
         "aelt": [
-            "late"
+            {
+                "word": "late",
+                "score": 0
+            }
         ],
         "aelr": [
-            "real"
+            {
+                "word": "real",
+                "score": 0
+            }
         ],
         "efil": [
-            "life"
+            {
+                "word": "life",
+                "score": 0
+            }
         ],
         "enop": [
-            "open"
+            {
+                "word": "open",
+                "score": 0
+            }
         ],
         "eems": [
-            "seem"
+            {
+                "word": "seem",
+                "score": 0
+            }
         ],
         "entx": [
-            "next"
+            {
+                "word": "next",
+                "score": 0
+            }
         ],
         "aklw": [
-            "walk"
+            {
+                "word": "walk",
+                "score": 0
+            }
         ],
         "aees": [
-            "ease"
+            {
+                "word": "ease",
+                "score": 0
+            }
         ],
         "bhot": [
-            "both"
+            {
+                "word": "both",
+                "score": 0
+            }
         ],
         "akmr": [
-            "mark"
+            {
+                "word": "mark",
+                "score": 0
+            }
         ],
         "eilm": [
-            "mile"
+            {
+                "word": "mile",
+                "score": 0
+            }
         ],
         "eeft": [
-            "feet"
+            {
+                "word": "feet",
+                "score": 0
+            }
         ],
         "acer": [
-            "care",
-            "race"
+            {
+                "word": "care",
+                "score": 0
+            },
+            {
+                "word": "race",
+                "score": 0
+            }
         ],
         "bkoo": [
-            "book"
+            {
+                "word": "book",
+                "score": 0
+            }
         ],
         "koot": [
-            "took"
+            {
+                "word": "took",
+                "score": 0
+            }
         ],
         "moor": [
-            "room"
+            {
+                "word": "room",
+                "score": 0
+            }
         ],
         "adei": [
-            "idea"
+            {
+                "word": "idea",
+                "score": 0
+            }
         ],
         "fhis": [
-            "fish"
+            {
+                "word": "fish",
+                "score": 0
+            }
         ],
         "opst": [
-            "stop",
-            "spot",
-            "post"
+            {
+                "word": "stop",
+                "score": 0
+            },
+            {
+                "word": "spot",
+                "score": 0
+            },
+            {
+                "word": "post",
+                "score": 0
+            }
         ],
         "ceno": [
-            "once"
+            {
+                "word": "once",
+                "score": 0
+            }
         ],
         "abes": [
-            "base"
+            {
+                "word": "base",
+                "score": 0
+            }
         ],
         "aehr": [
-            "hear"
+            {
+                "word": "hear",
+                "score": 0
+            }
         ],
         "ersu": [
-            "sure"
+            {
+                "word": "sure",
+                "score": 0
+            }
         ],
         "acef": [
-            "face"
+            {
+                "word": "face",
+                "score": 0
+            }
         ],
         "doow": [
-            "wood"
+            {
+                "word": "wood",
+                "score": 0
+            }
         ],
         "aimn": [
-            "main"
+            {
+                "word": "main",
+                "score": 0
+            }
         ],
         "gilr": [
-            "girl"
+            {
+                "word": "girl",
+                "score": 0
+            }
         ],
         "eerv": [
-            "ever"
+            {
+                "word": "ever",
+                "score": 0
+            }
         ],
         "ilst": [
-            "list"
+            {
+                "word": "list",
+                "score": 0
+            }
         ],
         "eefl": [
-            "feel"
+            {
+                "word": "feel",
+                "score": 0
+            }
         ],
         "aklt": [
-            "talk"
+            {
+                "word": "talk",
+                "score": 0
+            }
         ],
         "bdir": [
-            "bird"
+            {
+                "word": "bird",
+                "score": 0
+            }
         ],
         "noos": [
-            "soon"
+            {
+                "word": "soon",
+                "score": 0
+            }
         ],
         "bdoy": [
-            "body"
+            {
+                "word": "body",
+                "score": 0
+            }
         ],
         "eops": [
-            "pose"
+            {
+                "word": "pose",
+                "score": 0
+            }
         ],
         "gnos": [
-            "song"
+            {
+                "word": "song",
+                "score": 0
+            }
         ],
         "door": [
-            "door"
+            {
+                "word": "door",
+                "score": 0
+            }
         ],
         "dinw": [
-            "wind"
+            {
+                "word": "wind",
+                "score": 0
+            }
         ],
         "hips": [
-            "ship"
+            {
+                "word": "ship",
+                "score": 0
+            }
         ],
         "aaer": [
-            "area"
+            {
+                "word": "area",
+                "score": 0
+            }
         ],
         "afhl": [
-            "half"
+            {
+                "word": "half",
+                "score": 0
+            }
         ],
         "ckor": [
-            "rock"
+            {
+                "word": "rock",
+                "score": 0
+            }
         ],
         "efir": [
-            "fire"
+            {
+                "word": "fire",
+                "score": 0
+            }
         ],
         "dlot": [
-            "told"
+            {
+                "word": "told",
+                "score": 0
+            }
         ],
         "eknw": [
-            "knew"
+            {
+                "word": "knew",
+                "score": 0
+            }
         ],
         "apss": [
-            "pass"
+            {
+                "word": "pass",
+                "score": 0
+            }
         ],
         "gikn": [
-            "king"
+            {
+                "word": "king",
+                "score": 0
+            }
         ],
         "best": [
-            "best"
+            {
+                "word": "best",
+                "score": 0
+            }
         ],
         "horu": [
-            "hour"
+            {
+                "word": "hour",
+                "score": 0
+            }
         ],
         "ertu": [
-            "true"
+            {
+                "word": "true",
+                "score": 0
+            }
         ],
         "efiv": [
-            "five"
+            {
+                "word": "five",
+                "score": 0
+            }
         ],
         "epst": [
-            "step"
+            {
+                "word": "step",
+                "score": 0
+            }
         ],
         "dhlo": [
-            "hold"
+            {
+                "word": "hold",
+                "score": 0
+            }
         ],
         "estw": [
-            "west"
+            {
+                "word": "west",
+                "score": 0
+            }
         ],
         "afst": [
-            "fast"
+            {
+                "word": "fast",
+                "score": 0
+            }
         ],
         "berv": [
-            "verb"
+            {
+                "word": "verb",
+                "score": 0
+            }
         ],
         "gins": [
-            "sing",
-            "sign"
+            {
+                "word": "sing",
+                "score": 0
+            },
+            {
+                "word": "sign",
+                "score": 0
+            }
         ],
         "elss": [
-            "less"
+            {
+                "word": "less",
+                "score": 0
+            }
         ],
         "losw": [
-            "slow"
+            {
+                "word": "slow",
+                "score": 0
+            }
         ],
         "elov": [
-            "love"
+            {
+                "word": "love",
+                "score": 0
+            }
         ],
         "ador": [
-            "road"
+            {
+                "word": "road",
+                "score": 0
+            }
         ],
         "ainr": [
-            "rain"
+            {
+                "word": "rain",
+                "score": 0
+            }
         ],
         "elru": [
-            "rule"
+            {
+                "word": "rule",
+                "score": 0
+            }
         ],
         "llpu": [
-            "pull"
+            {
+                "word": "pull",
+                "score": 0
+            }
         ],
         "cdlo": [
-            "cold"
+            {
+                "word": "cold",
+                "score": 0
+            }
         ],
         "intu": [
-            "unit"
+            {
+                "word": "unit",
+                "score": 0
+            }
         ],
         "notw": [
-            "town"
+            {
+                "word": "town",
+                "score": 0
+            }
         ],
         "efin": [
-            "fine"
+            {
+                "word": "fine",
+                "score": 0
+            }
         ],
         "afll": [
-            "fall"
+            {
+                "word": "fall",
+                "score": 0
+            }
         ],
         "adel": [
-            "lead",
-            "deal"
+            {
+                "word": "lead",
+                "score": 0
+            },
+            {
+                "word": "deal",
+                "score": 0
+            }
         ],
         "adkr": [
-            "dark"
+            {
+                "word": "dark",
+                "score": 0
+            }
         ],
         "enot": [
-            "note",
-            "tone"
+            {
+                "word": "note",
+                "score": 0
+            },
+            {
+                "word": "tone",
+                "score": 0
+            }
         ],
         "aitw": [
-            "wait"
+            {
+                "word": "wait",
+                "score": 0
+            }
         ],
         "alnp": [
-            "plan"
+            {
+                "word": "plan",
+                "score": 0
+            }
         ],
         "arst": [
-            "star"
+            {
+                "word": "star",
+                "score": 0
+            }
         ],
         "nnou": [
-            "noun"
+            {
+                "word": "noun",
+                "score": 0
+            }
         ],
         "erst": [
-            "rest"
+            {
+                "word": "rest",
+                "score": 0
+            }
         ],
         "abel": [
-            "able"
+            {
+                "word": "able",
+                "score": 0
+            }
         ],
         "deno": [
-            "done"
+            {
+                "word": "done",
+                "score": 0
+            }
         ],
         "eekw": [
-            "week"
+            {
+                "word": "week",
+                "score": 0
+            }
         ],
         "aegv": [
-            "gave"
+            {
+                "word": "gave",
+                "score": 0
+            }
         ],
         "amrw": [
-            "warm"
+            {
+                "word": "warm",
+                "score": 0
+            }
         ],
         "eefr": [
-            "free"
+            {
+                "word": "free",
+                "score": 0
+            }
         ],
         "dimn": [
-            "mind"
+            {
+                "word": "mind",
+                "score": 0
+            }
         ],
         "ailt": [
-            "tail"
+            {
+                "word": "tail",
+                "score": 0
+            }
         ],
         "acft": [
-            "fact"
+            {
+                "word": "fact",
+                "score": 0
+            }
         ],
         "chin": [
-            "inch"
+            {
+                "word": "inch",
+                "score": 0
+            }
         ],
         "asty": [
-            "stay"
+            {
+                "word": "stay",
+                "score": 0
+            }
         ],
         "fllu": [
-            "full"
+            {
+                "word": "full",
+                "score": 0
+            }
         ],
         "belu": [
-            "blue"
+            {
+                "word": "blue",
+                "score": 0
+            }
         ],
         "deep": [
-            "deep"
+            {
+                "word": "deep",
+                "score": 0
+            }
         ],
         "mnoo": [
-            "moon"
+            {
+                "word": "moon",
+                "score": 0
+            }
         ],
         "foot": [
-            "foot"
+            {
+                "word": "foot",
+                "score": 0
+            }
         ],
         "bsuy": [
-            "busy"
+            {
+                "word": "busy",
+                "score": 0
+            }
         ],
         "estt": [
-            "test"
+            {
+                "word": "test",
+                "score": 0
+            }
         ],
         "abot": [
-            "boat"
+            {
+                "word": "boat",
+                "score": 0
+            }
         ],
         "dglo": [
-            "gold"
+            {
+                "word": "gold",
+                "score": 0
+            }
         ],
         "aegm": [
-            "game"
+            {
+                "word": "game",
+                "score": 0
+            }
         ],
         "imss": [
-            "miss"
+            {
+                "word": "miss",
+                "score": 0
+            }
         ],
         "aeht": [
-            "heat"
+            {
+                "word": "heat",
+                "score": 0
+            }
         ],
         "nosw": [
-            "snow"
+            {
+                "word": "snow",
+                "score": 0
+            }
         ],
         "eirt": [
-            "tire"
+            {
+                "word": "tire",
+                "score": 0
+            }
         ],
         "fill": [
-            "fill"
+            {
+                "word": "fill",
+                "score": 0
+            }
         ],
         "aest": [
-            "east",
-            "seat"
+            {
+                "word": "east",
+                "score": 0
+            },
+            {
+                "word": "seat",
+                "score": 0
+            }
         ],
         "abll": [
-            "ball"
+            {
+                "word": "ball",
+                "score": 0
+            }
         ],
         "aevw": [
-            "wave"
+            {
+                "word": "wave",
+                "score": 0
+            }
         ],
         "dopr": [
-            "drop"
+            {
+                "word": "drop",
+                "score": 0
+            }
         ],
         "deiw": [
-            "wide"
+            {
+                "word": "wide",
+                "score": 0
+            }
         ],
         "ails": [
-            "sail"
+            {
+                "word": "sail",
+                "score": 0
+            }
         ],
         "eisz": [
-            "size"
+            {
+                "word": "size",
+                "score": 0
+            }
         ],
         "arvy": [
-            "vary"
+            {
+                "word": "vary",
+                "score": 0
+            }
         ],
         "aipr": [
-            "pair"
+            {
+                "word": "pair",
+                "score": 0
+            }
         ],
         "cikp": [
-            "pick"
+            {
+                "word": "pick",
+                "score": 0
+            }
         ],
         "hntu": [
-            "hunt"
+            {
+                "word": "hunt",
+                "score": 0
+            }
         ],
         "deir": [
-            "ride"
+            {
+                "word": "ride",
+                "score": 0
+            }
         ],
         "cell": [
-            "cell"
+            {
+                "word": "cell",
+                "score": 0
+            }
         ],
         "elno": [
-            "lone"
+            {
+                "word": "lone",
+                "score": 0
+            }
         ],
         "allw": [
-            "wall"
+            {
+                "word": "wall",
+                "score": 0
+            }
         ],
         "hisw": [
-            "wish"
+            {
+                "word": "wish",
+                "score": 0
+            }
         ],
         "dilw": [
-            "wild"
+            {
+                "word": "wild",
+                "score": 0
+            }
         ],
         "ekpt": [
-            "kept"
+            {
+                "word": "kept",
+                "score": 0
+            }
         ],
         "deeg": [
-            "edge"
+            {
+                "word": "edge",
+                "score": 0
+            }
         ],
         "apst": [
-            "past"
+            {
+                "word": "past",
+                "score": 0
+            }
         ],
         "fost": [
-            "soft"
+            {
+                "word": "soft",
+                "score": 0
+            }
         ],
         "aber": [
-            "bear"
+            {
+                "word": "bear",
+                "score": 0
+            }
         ],
         "ehop": [
-            "hope"
+            {
+                "word": "hope",
+                "score": 0
+            }
         ],
         "egno": [
-            "gone"
+            {
+                "word": "gone",
+                "score": 0
+            }
         ],
         "jmpu": [
-            "jump"
+            {
+                "word": "jump",
+                "score": 0
+            }
         ],
         "abby": [
-            "baby"
+            {
+                "word": "baby",
+                "score": 0
+            }
         ],
         "eemt": [
-            "meet"
+            {
+                "word": "meet",
+                "score": 0
+            }
         ],
         "oort": [
-            "root"
+            {
+                "word": "root",
+                "score": 0
+            }
         ],
         "hpsu": [
-            "push"
+            {
+                "word": "push",
+                "score": 0
+            }
         ],
         "dehl": [
-            "held"
+            {
+                "word": "held",
+                "score": 0
+            }
         ],
         "ahir": [
-            "hair"
+            {
+                "word": "hair",
+                "score": 0
+            }
         ],
         "ckoo": [
-            "cook"
+            {
+                "word": "cook",
+                "score": 0
+            }
         ],
         "bnru": [
-            "burn"
+            {
+                "word": "burn",
+                "score": 0
+            }
         ],
         "hill": [
-            "hill"
+            {
+                "word": "hill",
+                "score": 0
+            }
         ],
         "aefs": [
-            "safe"
+            {
+                "word": "safe",
+                "score": 0
+            }
         ],
         "epty": [
-            "type"
+            {
+                "word": "type",
+                "score": 0
+            }
         ],
         "copy": [
-            "copy"
+            {
+                "word": "copy",
+                "score": 0
+            }
         ],
         "allt": [
-            "tall"
+            {
+                "word": "tall",
+                "score": 0
+            }
         ],
         "adns": [
-            "sand"
+            {
+                "word": "sand",
+                "score": 0
+            }
         ],
         "ilos": [
-            "soil"
+            {
+                "word": "soil",
+                "score": 0
+            }
         ],
         "llor": [
-            "roll"
+            {
+                "word": "roll",
+                "score": 0
+            }
         ],
         "abet": [
-            "beat"
+            {
+                "word": "beat",
+                "score": 0
+            }
         ],
         "eivw": [
-            "view"
+            {
+                "word": "view",
+                "score": 0
+            }
         ],
         "eels": [
-            "else"
+            {
+                "word": "else",
+                "score": 0
+            }
         ],
         "aces": [
-            "case"
+            {
+                "word": "case",
+                "score": 0
+            }
         ],
         "ikll": [
-            "kill"
+            {
+                "word": "kill",
+                "score": 0
+            }
         ],
         "aekl": [
-            "lake"
+            {
+                "word": "lake",
+                "score": 0
+            }
         ],
         "dlou": [
-            "loud"
+            {
+                "word": "loud",
+                "score": 0
+            }
         ],
         "iklm": [
-            "milk"
+            {
+                "word": "milk",
+                "score": 0
+            }
         ],
         "inty": [
-            "tiny"
+            {
+                "word": "tiny",
+                "score": 0
+            }
         ],
         "cloo": [
-            "cool"
+            {
+                "word": "cool",
+                "score": 0
+            }
         ],
         "oopr": [
-            "poor"
+            {
+                "word": "poor",
+                "score": 0
+            }
         ],
         "inor": [
-            "iron"
+            {
+                "word": "iron",
+                "score": 0
+            }
         ],
         "aflt": [
-            "flat"
+            {
+                "word": "flat",
+                "score": 0
+            }
         ],
         "ikns": [
-            "skin"
+            {
+                "word": "skin",
+                "score": 0
+            }
         ],
         "ehlo": [
-            "hole"
+            {
+                "word": "hole",
+                "score": 0
+            }
         ],
         "iprt": [
-            "trip"
+            {
+                "word": "trip",
+                "score": 0
+            }
         ],
         "dees": [
-            "seed"
+            {
+                "word": "seed",
+                "score": 0
+            }
         ],
         "ijno": [
-            "join"
+            {
+                "word": "join",
+                "score": 0
+            }
         ],
         "adly": [
-            "lady"
+            {
+                "word": "lady",
+                "score": 0
+            }
         ],
         "adry": [
-            "yard"
+            {
+                "word": "yard",
+                "score": 0
+            }
         ],
         "eirs": [
-            "rise"
+            {
+                "word": "rise",
+                "score": 0
+            }
         ],
         "blow": [
-            "blow"
+            {
+                "word": "blow",
+                "score": 0
+            }
         ],
         "egrw": [
-            "grew"
+            {
+                "word": "grew",
+                "score": 0
+            }
         ],
         "cent": [
-            "cent"
+            {
+                "word": "cent",
+                "score": 0
+            }
         ],
         "aemt": [
-            "team",
-            "meat"
+            {
+                "word": "team",
+                "score": 0
+            },
+            {
+                "word": "meat",
+                "score": 0
+            }
         ],
         "eirw": [
-            "wire"
+            {
+                "word": "wire",
+                "score": 0
+            }
         ],
         "cost": [
-            "cost"
+            {
+                "word": "cost",
+                "score": 0
+            }
         ],
         "lost": [
-            "lost"
+            {
+                "word": "lost",
+                "score": 0
+            }
         ],
         "aerw": [
-            "wear"
+            {
+                "word": "wear",
+                "score": 0
+            }
         ],
         "enst": [
-            "sent"
+            {
+                "word": "sent",
+                "score": 0
+            }
         ],
         "efll": [
-            "fell"
+            {
+                "word": "fell",
+                "score": 0
+            }
         ],
         "flow": [
-            "flow"
+            {
+                "word": "flow",
+                "score": 0
+            }
         ],
         "afir": [
-            "fair"
+            {
+                "word": "fair",
+                "score": 0
+            }
         ],
         "abkn": [
-            "bank"
+            {
+                "word": "bank",
+                "score": 0
+            }
         ],
         "aesv": [
-            "save"
+            {
+                "word": "save",
+                "score": 0
+            }
         ],
         "nnoo": [
-            "noon"
+            {
+                "word": "noon",
+                "score": 0
+            }
         ],
         "ginr": [
-            "ring"
+            {
+                "word": "ring",
+                "score": 0
+            }
         ],
         "amot": [
-            "atom"
+            {
+                "word": "atom",
+                "score": 0
+            }
         ],
         "copr": [
-            "crop"
+            {
+                "word": "crop",
+                "score": 0
+            }
         ],
         "beno": [
-            "bone"
+            {
+                "word": "bone",
+                "score": 0
+            }
         ],
         "ailr": [
-            "rail"
+            {
+                "word": "rail",
+                "score": 0
+            }
         ],
         "hstu": [
-            "thus"
+            {
+                "word": "thus",
+                "score": 0
+            }
         ],
         "chir": [
-            "rich"
+            {
+                "word": "rich",
+                "score": 0
+            }
         ],
         "ginw": [
-            "wing"
+            {
+                "word": "wing",
+                "score": 0
+            }
         ],
         "ahsw": [
-            "wash"
+            {
+                "word": "wash",
+                "score": 0
+            }
         ],
         "cnor": [
-            "corn"
+            {
+                "word": "corn",
+                "score": 0
+            }
         ],
         "emop": [
-            "poem"
+            {
+                "word": "poem",
+                "score": 0
+            }
         ],
         "bell": [
-            "bell"
+            {
+                "word": "bell",
+                "score": 0
+            }
         ],
         "betu": [
-            "tube"
+            {
+                "word": "tube",
+                "score": 0
+            }
         ],
         "aefr": [
-            "fear"
+            {
+                "word": "fear",
+                "score": 0
+            }
         ],
         "hint": [
-            "thin"
+            {
+                "word": "thin",
+                "score": 0
+            }
         ],
         "eimn": [
-            "mine"
+            {
+                "word": "mine",
+                "score": 0
+            }
         ],
         "dens": [
-            "send"
+            {
+                "word": "send",
+                "score": 0
+            }
         ],
         "adde": [
-            "dead"
+            {
+                "word": "dead",
+                "score": 0
+            }
         ],
         "istu": [
-            "suit"
+            {
+                "word": "suit",
+                "score": 0
+            }
         ],
         "filt": [
-            "lift"
+            {
+                "word": "lift",
+                "score": 0
+            }
         ],
         "eors": [
-            "rose"
+            {
+                "word": "rose",
+                "score": 0
+            }
         ],
         "ells": [
-            "sell"
+            {
+                "word": "sell",
+                "score": 0
+            }
         ],
         "imsw": [
-            "swim"
+            {
+                "word": "swim",
+                "score": 0
+            }
         ],
         "emrt": [
-            "term"
+            {
+                "word": "term",
+                "score": 0
+            }
         ],
         "efiw": [
-            "wife"
+            {
+                "word": "wife",
+                "score": 0
+            }
         ],
         "ehos": [
-            "shoe"
+            {
+                "word": "shoe",
+                "score": 0
+            }
         ],
         "acmp": [
-            "camp"
+            {
+                "word": "camp",
+                "score": 0
+            }
         ],
         "bnor": [
-            "born"
+            {
+                "word": "born",
+                "score": 0
+            }
         ],
         "einn": [
-            "nine"
+            {
+                "word": "nine",
+                "score": 0
+            }
         ],
         "hops": [
-            "shop"
+            {
+                "word": "shop",
+                "score": 0
+            }
         ],
         "agry": [
-            "gray"
+            {
+                "word": "gray",
+                "score": 0
+            }
         ],
         "enos": [
-            "nose"
+            {
+                "word": "nose",
+                "score": 0
+            }
         ],
         "eghu": [
-            "huge"
+            {
+                "word": "huge",
+                "score": 0
+            }
         ],
         "acot": [
-            "coat"
+            {
+                "word": "coat",
+                "score": 0
+            }
         ],
         "amss": [
-            "mass"
+            {
+                "word": "mass",
+                "score": 0
+            }
         ],
         "acdr": [
-            "card"
+            {
+                "word": "card",
+                "score": 0
+            }
         ],
         "abdn": [
-            "band"
+            {
+                "word": "band",
+                "score": 0
+            }
         ],
         "eopr": [
-            "rope"
+            {
+                "word": "rope",
+                "score": 0
+            }
         ],
         "ilps": [
-            "slip"
+            {
+                "word": "slip",
+                "score": 0
+            }
         ],
         "deef": [
-            "feed"
+            {
+                "word": "feed",
+                "score": 0
+            }
         ],
         "loot": [
-            "tool"
+            {
+                "word": "tool",
+                "score": 0
+            }
         ],
         "adgl": [
-            "glad"
+            {
+                "word": "glad",
+                "score": 0
+            }
         ],
         "cdku": [
-            "duck"
+            {
+                "word": "duck",
+                "score": 0
+            }
         ],
         "ahpt": [
-            "path"
+            {
+                "word": "path",
+                "score": 0
+            }
         ],
         "cekn": [
-            "neck"
+            {
+                "word": "neck",
+                "score": 0
+            }
         ]
     },
     "5": {
         "ehort": [
-            "other"
+            {
+                "word": "other",
+                "score": 0
+            }
         ],
         "eehrt": [
-            "there",
-            "three"
+            {
+                "word": "there",
+                "score": 0
+            },
+            {
+                "word": "three",
+                "score": 0
+            }
         ],
         "chhiw": [
-            "which"
+            {
+                "word": "which",
+                "score": 0
+            }
         ],
         "ehirt": [
-            "their"
+            {
+                "word": "their",
+                "score": 0
+            }
         ],
         "abotu": [
-            "about"
+            {
+                "word": "about",
+                "score": 0
+            }
         ],
         "eirtw": [
-            "write"
+            {
+                "word": "write",
+                "score": 0
+            }
         ],
         "dlouw": [
-            "would"
+            {
+                "word": "would",
+                "score": 0
+            }
         ],
         "eehst": [
-            "these",
-            "sheet"
+            {
+                "word": "these",
+                "score": 0
+            },
+            {
+                "word": "sheet",
+                "score": 0
+            }
         ],
         "ghint": [
-            "thing",
-            "night"
+            {
+                "word": "thing",
+                "score": 0
+            },
+            {
+                "word": "night",
+                "score": 0
+            }
         ],
         "cdlou": [
-            "could",
-            "cloud"
+            {
+                "word": "could",
+                "score": 0
+            },
+            {
+                "word": "cloud",
+                "score": 0
+            }
         ],
         "dnosu": [
-            "sound"
+            {
+                "word": "sound",
+                "score": 0
+            }
         ],
         "aertw": [
-            "water"
+            {
+                "word": "water",
+                "score": 0
+            }
         ],
         "first": [
-            "first"
+            {
+                "word": "first",
+                "score": 0
+            }
         ],
         "acelp": [
-            "place"
+            {
+                "word": "place",
+                "score": 0
+            }
         ],
         "eehrw": [
-            "where"
+            {
+                "word": "where",
+                "score": 0
+            }
         ],
         "aefrt": [
-            "after"
+            {
+                "word": "after",
+                "score": 0
+            }
         ],
         "dnoru": [
-            "round"
+            {
+                "word": "round",
+                "score": 0
+            }
         ],
         "eervy": [
-            "every"
+            {
+                "word": "every",
+                "score": 0
+            }
         ],
         "denru": [
-            "under"
+            {
+                "word": "under",
+                "score": 0
+            }
         ],
         "aegrt": [
-            "great"
+            {
+                "word": "great",
+                "score": 0
+            }
         ],
         "hiknt": [
-            "think"
+            {
+                "word": "think",
+                "score": 0
+            }
         ],
         "acesu": [
-            "cause"
+            {
+                "word": "cause",
+                "score": 0
+            }
         ],
         "ghirt": [
-            "right"
+            {
+                "word": "right",
+                "score": 0
+            }
         ],
         "allms": [
-            "small"
+            {
+                "word": "small",
+                "score": 0
+            }
         ],
         "aeglr": [
-            "large"
+            {
+                "word": "large",
+                "score": 0
+            }
         ],
         "ellps": [
-            "spell"
+            {
+                "word": "spell",
+                "score": 0
+            }
         ],
         "ghilt": [
-            "light"
+            {
+                "word": "light",
+                "score": 0
+            }
         ],
         "ehosu": [
-            "house"
+            {
+                "word": "house",
+                "score": 0
+            }
         ],
         "aagin": [
-            "again"
+            {
+                "word": "again",
+                "score": 0
+            }
         ],
         "inopt": [
-            "point"
+            {
+                "word": "point",
+                "score": 0
+            }
         ],
         "dlorw": [
-            "world"
+            {
+                "word": "world",
+                "score": 0
+            }
         ],
         "bdilu": [
-            "build"
+            {
+                "word": "build",
+                "score": 0
+            }
         ],
         "aehrt": [
-            "earth",
-            "heart"
+            {
+                "word": "earth",
+                "score": 0
+            },
+            {
+                "word": "heart",
+                "score": 0
+            }
         ],
         "adnst": [
-            "stand"
+            {
+                "word": "stand",
+                "score": 0
+            }
         ],
         "dfnou": [
-            "found"
+            {
+                "word": "found",
+                "score": 0
+            }
         ],
         "dstuy": [
-            "study"
+            {
+                "word": "study",
+                "score": 0
+            }
         ],
         "illst": [
-            "still"
+            {
+                "word": "still",
+                "score": 0
+            }
         ],
         "aelnr": [
-            "learn"
+            {
+                "word": "learn",
+                "score": 0
+            }
         ],
         "alnpt": [
-            "plant"
+            {
+                "word": "plant",
+                "score": 0
+            }
         ],
         "ceorv": [
-            "cover"
+            {
+                "word": "cover",
+                "score": 0
+            }
         ],
         "aestt": [
-            "state"
+            {
+                "word": "state",
+                "score": 0
+            }
         ],
         "eenrv": [
-            "never"
+            {
+                "word": "never",
+                "score": 0
+            }
         ],
         "corss": [
-            "cross"
+            {
+                "word": "cross",
+                "score": 0
+            }
         ],
         "arstt": [
-            "start"
+            {
+                "word": "start",
+                "score": 0
+            }
         ],
         "ghimt": [
-            "might"
+            {
+                "word": "might",
+                "score": 0
+            }
         ],
         "orsty": [
-            "story"
+            {
+                "word": "story",
+                "score": 0
+            }
         ],
         "ehilw": [
-            "while"
+            {
+                "word": "while",
+                "score": 0
+            }
         ],
         "eprss": [
-            "press"
+            {
+                "word": "press",
+                "score": 0
+            }
         ],
         "celos": [
-            "close"
+            {
+                "word": "close",
+                "score": 0
+            }
         ],
         "hnort": [
-            "north"
+            {
+                "word": "north",
+                "score": 0
+            }
         ],
         "ehitw": [
-            "white"
+            {
+                "word": "white",
+                "score": 0
+            }
         ],
         "begin": [
-            "begin"
+            {
+                "word": "begin",
+                "score": 0
+            }
         ],
         "aeppr": [
-            "paper"
+            {
+                "word": "paper",
+                "score": 0
+            }
         ],
         "gopru": [
-            "group"
+            {
+                "word": "group",
+                "score": 0
+            }
         ],
         "cimsu": [
-            "music"
+            {
+                "word": "music",
+                "score": 0
+            }
         ],
         "ehost": [
-            "those"
+            {
+                "word": "those",
+                "score": 0
+            }
         ],
         "efnot": [
-            "often"
+            {
+                "word": "often",
+                "score": 0
+            }
         ],
         "ilntu": [
-            "until"
+            {
+                "word": "until",
+                "score": 0
+            }
         ],
         "eirrv": [
-            "river"
+            {
+                "word": "river",
+                "score": 0
+            }
         ],
         "acrry": [
-            "carry"
+            {
+                "word": "carry",
+                "score": 0
+            }
         ],
         "abegn": [
-            "began"
+            {
+                "word": "began",
+                "score": 0
+            }
         ],
         "ehors": [
-            "horse",
-            "shore"
+            {
+                "word": "horse",
+                "score": 0
+            },
+            {
+                "word": "shore",
+                "score": 0
+            }
         ],
         "achtw": [
-            "watch"
+            {
+                "word": "watch",
+                "score": 0
+            }
         ],
         "cloor": [
-            "color"
+            {
+                "word": "color",
+                "score": 0
+            }
         ],
         "ailnp": [
-            "plain"
+            {
+                "word": "plain",
+                "score": 0
+            }
         ],
         "alsuu": [
-            "usual"
+            {
+                "word": "usual",
+                "score": 0
+            }
         ],
         "gnouy": [
-            "young"
+            {
+                "word": "young",
+                "score": 0
+            }
         ],
         "adery": [
-            "ready"
+            {
+                "word": "ready",
+                "score": 0
+            }
         ],
         "abeov": [
-            "above"
+            {
+                "word": "above",
+                "score": 0
+            }
         ],
         "aeelv": [
-            "leave"
+            {
+                "word": "leave",
+                "score": 0
+            }
         ],
         "abckl": [
-            "black"
+            {
+                "word": "black",
+                "score": 0
+            }
         ],
         "horst": [
-            "short"
+            {
+                "word": "short",
+                "score": 0
+            }
         ],
         "aclss": [
-            "class"
+            {
+                "word": "class",
+                "score": 0
+            }
         ],
         "deorr": [
-            "order"
+            {
+                "word": "order",
+                "score": 0
+            }
         ],
         "hostu": [
-            "south",
-            "shout"
+            {
+                "word": "south",
+                "score": 0
+            },
+            {
+                "word": "shout",
+                "score": 0
+            }
         ],
         "ceeip": [
-            "piece"
+            {
+                "word": "piece",
+                "score": 0
+            }
         ],
         "ceins": [
-            "since"
+            {
+                "word": "since",
+                "score": 0
+            }
         ],
         "ehlow": [
-            "whole"
+            {
+                "word": "whole",
+                "score": 0
+            }
         ],
         "aceps": [
-            "space"
+            {
+                "word": "space",
+                "score": 0
+            }
         ],
         "adehr": [
-            "heard"
+            {
+                "word": "heard",
+                "score": 0
+            }
         ],
         "aelry": [
-            "early"
+            {
+                "word": "early",
+                "score": 0
+            }
         ],
         "acehr": [
-            "reach"
+            {
+                "word": "reach",
+                "score": 0
+            }
         ],
         "abelt": [
-            "table"
+            {
+                "word": "table",
+                "score": 0
+            }
         ],
         "elovw": [
-            "vowel"
+            {
+                "word": "vowel",
+                "score": 0
+            }
         ],
         "emnoy": [
-            "money"
+            {
+                "word": "money",
+                "score": 0
+            }
         ],
         "eersv": [
-            "serve"
+            {
+                "word": "serve",
+                "score": 0
+            }
         ],
         "ceiov": [
-            "voice"
+            {
+                "word": "voice",
+                "score": 0
+            }
         ],
         "eoprw": [
-            "power"
+            {
+                "word": "power",
+                "score": 0
+            }
         ],
         "defil": [
-            "field"
+            {
+                "word": "field",
+                "score": 0
+            }
         ],
         "dnopu": [
-            "pound"
+            {
+                "word": "pound",
+                "score": 0
+            }
         ],
         "deirv": [
-            "drive"
+            {
+                "word": "drive",
+                "score": 0
+            }
         ],
         "doost": [
-            "stood"
+            {
+                "word": "stood",
+                "score": 0
+            }
         ],
         "fnort": [
-            "front"
+            {
+                "word": "front",
+                "score": 0
+            }
         ],
         "aceht": [
-            "teach"
+            {
+                "word": "teach",
+                "score": 0
+            }
         ],
         "afiln": [
-            "final"
+            {
+                "word": "final",
+                "score": 0
+            }
         ],
         "eegnr": [
-            "green"
+            {
+                "word": "green",
+                "score": 0
+            }
         ],
         "cikqu": [
-            "quick"
+            {
+                "word": "quick",
+                "score": 0
+            }
         ],
         "aceno": [
-            "ocean"
+            {
+                "word": "ocean",
+                "score": 0
+            }
         ],
         "acelr": [
-            "clear"
+            {
+                "word": "clear",
+                "score": 0
+            }
         ],
         "eehlw": [
-            "wheel"
+            {
+                "word": "wheel",
+                "score": 0
+            }
         ],
         "cefor": [
-            "force"
+            {
+                "word": "force",
+                "score": 0
+            }
         ],
         "aelnp": [
-            "plane"
+            {
+                "word": "plane",
+                "score": 0
+            }
         ],
         "adest": [
-            "stead"
+            {
+                "word": "stead",
+                "score": 0
+            }
         ],
         "aghlu": [
-            "laugh"
+            {
+                "word": "laugh",
+                "score": 0
+            }
         ],
         "ccehk": [
-            "check"
+            {
+                "word": "check",
+                "score": 0
+            }
         ],
         "aehps": [
-            "shape"
+            {
+                "word": "shape",
+                "score": 0
+            }
         ],
         "bginr": [
-            "bring"
+            {
+                "word": "bring",
+                "score": 0
+            }
         ],
         "ainpt": [
-            "paint"
+            {
+                "word": "paint",
+                "score": 0
+            }
         ],
         "agmno": [
-            "among"
+            {
+                "word": "among",
+                "score": 0
+            }
         ],
         "adgnr": [
-            "grand"
+            {
+                "word": "grand",
+                "score": 0
+            }
         ],
         "aehvy": [
-            "heavy"
+            {
+                "word": "heavy",
+                "score": 0
+            }
         ],
         "acden": [
-            "dance"
+            {
+                "word": "dance",
+                "score": 0
+            }
         ],
         "aekps": [
-            "speak"
+            {
+                "word": "speak",
+                "score": 0
+            }
         ],
         "cnotu": [
-            "count"
+            {
+                "word": "count",
+                "score": 0
+            }
         ],
         "eorst": [
-            "store"
+            {
+                "word": "store",
+                "score": 0
+            }
         ],
         "ainrt": [
-            "train"
+            {
+                "word": "train",
+                "score": 0
+            }
         ],
         "eelps": [
-            "sleep"
+            {
+                "word": "sleep",
+                "score": 0
+            }
         ],
         "eoprv": [
-            "prove"
+            {
+                "word": "prove",
+                "score": 0
+            }
         ],
         "accht": [
-            "catch"
+            {
+                "word": "catch",
+                "score": 0
+            }
         ],
         "mnotu": [
-            "mount"
+            {
+                "word": "mount",
+                "score": 0
+            }
         ],
         "abdor": [
-            "board",
-            "broad"
+            {
+                "word": "board",
+                "score": 0
+            },
+            {
+                "word": "broad",
+                "score": 0
+            }
         ],
         "aglss": [
-            "glass"
+            {
+                "word": "glass",
+                "score": 0
+            }
         ],
         "agrss": [
-            "grass"
+            {
+                "word": "grass",
+                "score": 0
+            }
         ],
         "iistv": [
-            "visit"
+            {
+                "word": "visit",
+                "score": 0
+            }
         ],
         "hmnot": [
-            "month"
+            {
+                "word": "month",
+                "score": 0
+            }
         ],
         "ahppy": [
-            "happy"
+            {
+                "word": "happy",
+                "score": 0
+            }
         ],
         "eghit": [
-            "eight"
+            {
+                "word": "eight",
+                "score": 0
+            }
         ],
         "aeirs": [
-            "raise"
+            {
+                "word": "raise",
+                "score": 0
+            }
         ],
         "elosv": [
-            "solve"
+            {
+                "word": "solve",
+                "score": 0
+            }
         ],
         "aelmt": [
-            "metal"
+            {
+                "word": "metal",
+                "score": 0
+            }
         ],
         "eensv": [
-            "seven"
+            {
+                "word": "seven",
+                "score": 0
+            }
         ],
         "dhirt": [
-            "third"
+            {
+                "word": "third",
+                "score": 0
+            }
         ],
         "ahlls": [
-            "shall"
+            {
+                "word": "shall",
+                "score": 0
+            }
         ],
         "floor": [
-            "floor"
+            {
+                "word": "floor",
+                "score": 0
+            }
         ],
         "acost": [
-            "coast"
+            {
+                "word": "coast",
+                "score": 0
+            }
         ],
         "aeluv": [
-            "value"
+            {
+                "word": "value",
+                "score": 0
+            }
         ],
         "fghit": [
-            "fight"
+            {
+                "word": "fight",
+                "score": 0
+            }
         ],
         "eenss": [
-            "sense"
+            {
+                "word": "sense",
+                "score": 0
+            }
         ],
         "eiqtu": [
-            "quite",
-            "quiet"
+            {
+                "word": "quite",
+                "score": 0
+            },
+            {
+                "word": "quiet",
+                "score": 0
+            }
         ],
         "bekor": [
-            "broke"
+            {
+                "word": "broke",
+                "score": 0
+            }
         ],
         "acels": [
-            "scale"
+            {
+                "word": "scale",
+                "score": 0
+            }
         ],
         "cdhil": [
-            "child"
+            {
+                "word": "child",
+                "score": 0
+            }
         ],
         "deeps": [
-            "speed"
+            {
+                "word": "speed",
+                "score": 0
+            }
         ],
         "agnor": [
-            "organ"
+            {
+                "word": "organ",
+                "score": 0
+            }
         ],
         "derss": [
-            "dress"
+            {
+                "word": "dress",
+                "score": 0
+            }
         ],
         "enost": [
-            "stone"
+            {
+                "word": "stone",
+                "score": 0
+            }
         ],
         "bcilm": [
-            "climb"
+            {
+                "word": "climb",
+                "score": 0
+            }
         ],
         "cikst": [
-            "stick"
+            {
+                "word": "stick",
+                "score": 0
+            }
         ],
         "eilms": [
-            "smile"
+            {
+                "word": "smile",
+                "score": 0
+            }
         ],
         "adert": [
-            "trade"
+            {
+                "word": "trade",
+                "score": 0
+            }
         ],
         "hmotu": [
-            "mouth"
+            {
+                "word": "mouth",
+                "score": 0
+            }
         ],
         "acetx": [
-            "exact"
+            {
+                "word": "exact",
+                "score": 0
+            }
         ],
         "aelst": [
-            "least"
+            {
+                "word": "least",
+                "score": 0
+            }
         ],
         "eortw": [
-            "wrote"
+            {
+                "word": "wrote",
+                "score": 0
+            }
         ],
         "aceln": [
-            "clean"
+            {
+                "word": "clean",
+                "score": 0
+            }
         ],
         "abekr": [
-            "break"
+            {
+                "word": "break",
+                "score": 0
+            }
         ],
         "bdloo": [
-            "blood"
+            {
+                "word": "blood",
+                "score": 0
+            }
         ],
         "chotu": [
-            "touch"
+            {
+                "word": "touch",
+                "score": 0
+            }
         ],
         "bnorw": [
-            "brown"
+            {
+                "word": "brown",
+                "score": 0
+            }
         ],
         "aelqu": [
-            "equal"
+            {
+                "word": "equal",
+                "score": 0
+            }
         ],
         "amnow": [
-            "woman"
+            {
+                "word": "woman",
+                "score": 0
+            }
         ],
         "ehosw": [
-            "whose"
+            {
+                "word": "whose",
+                "score": 0
+            }
         ],
         "adior": [
-            "radio"
+            {
+                "word": "radio",
+                "score": 0
+            }
         ],
         "ekops": [
-            "spoke"
+            {
+                "word": "spoke",
+                "score": 0
+            }
         ],
         "ahmnu": [
-            "human"
+            {
+                "word": "human",
+                "score": 0
+            }
         ],
         "aprty": [
-            "party"
+            {
+                "word": "party",
+                "score": 0
+            }
         ],
         "aeegr": [
-            "agree"
+            {
+                "word": "agree",
+                "score": 0
+            }
         ],
         "achir": [
-            "chair"
+            {
+                "word": "chair",
+                "score": 0
+            }
         ],
         "firtu": [
-            "fruit"
+            {
+                "word": "fruit",
+                "score": 0
+            }
         ],
         "chikt": [
-            "thick"
+            {
+                "word": "thick",
+                "score": 0
+            }
         ],
         "egssu": [
-            "guess"
+            {
+                "word": "guess",
+                "score": 0
+            }
         ],
         "ahprs": [
-            "sharp"
+            {
+                "word": "sharp",
+                "score": 0
+            }
         ],
         "cdorw": [
-            "crowd"
+            {
+                "word": "crowd",
+                "score": 0
+            }
         ],
         "ghist": [
-            "sight"
+            {
+                "word": "sight",
+                "score": 0
+            }
         ],
         "hrruy": [
-            "hurry"
+            {
+                "word": "hurry",
+                "score": 0
+            }
         ],
         "cefhi": [
-            "chief"
+            {
+                "word": "chief",
+                "score": 0
+            }
         ],
         "ccklo": [
-            "clock"
+            {
+                "word": "clock",
+                "score": 0
+            }
         ],
         "eenrt": [
-            "enter"
+            {
+                "word": "enter",
+                "score": 0
+            }
         ],
         "ajmor": [
-            "major"
+            {
+                "word": "major",
+                "score": 0
+            }
         ],
         "efhrs": [
-            "fresh"
+            {
+                "word": "fresh",
+                "score": 0
+            }
         ],
         "allow": [
-            "allow"
+            {
+                "word": "allow",
+                "score": 0
+            }
         ],
         "inprt": [
-            "print"
+            {
+                "word": "print",
+                "score": 0
+            }
         ],
         "bcklo": [
-            "block"
+            {
+                "word": "block",
+                "score": 0
+            }
         ],
         "achrt": [
-            "chart"
+            {
+                "word": "chart",
+                "score": 0
+            }
         ],
         "eentv": [
-            "event"
+            {
+                "word": "event",
+                "score": 0
+            }
         ],
         "aqrtu": [
-            "quart"
+            {
+                "word": "quart",
+                "score": 0
+            }
         ],
         "ckrtu": [
-            "truck"
+            {
+                "word": "truck",
+                "score": 0
+            }
         ],
         "einos": [
-            "noise"
+            {
+                "word": "noise",
+                "score": 0
+            }
         ],
         "eellv": [
-            "level"
+            {
+                "word": "level",
+                "score": 0
+            }
         ],
         "hortw": [
-            "throw"
+            {
+                "word": "throw",
+                "score": 0
+            }
         ],
         "ehins": [
-            "shine"
+            {
+                "word": "shine",
+                "score": 0
+            }
         ],
         "gnorw": [
-            "wrong"
+            {
+                "word": "wrong",
+                "score": 0
+            }
         ],
         "aegnr": [
-            "anger",
-            "range"
+            {
+                "word": "anger",
+                "score": 0
+            },
+            {
+                "word": "range",
+                "score": 0
+            }
         ],
         "acilm": [
-            "claim"
+            {
+                "word": "claim",
+                "score": 0
+            }
         ],
         "agrsu": [
-            "sugar"
+            {
+                "word": "sugar",
+                "score": 0
+            }
         ],
         "adeht": [
-            "death"
+            {
+                "word": "death",
+                "score": 0
+            }
         ],
         "iklls": [
-            "skill"
+            {
+                "word": "skill",
+                "score": 0
+            }
         ],
         "emnow": [
-            "women"
+            {
+                "word": "women",
+                "score": 0
+            }
         ],
         "ahknt": [
-            "thank"
+            {
+                "word": "thank",
+                "score": 0
+            }
         ],
         "achmt": [
-            "match"
+            {
+                "word": "match",
+                "score": 0
+            }
         ],
         "eelst": [
-            "steel"
+            {
+                "word": "steel",
+                "score": 0
+            }
         ],
         "degiu": [
-            "guide"
+            {
+                "word": "guide",
+                "score": 0
+            }
         ],
         "ceors": [
-            "score"
+            {
+                "word": "score",
+                "score": 0
+            }
         ],
         "aelpp": [
-            "apple"
+            {
+                "word": "apple",
+                "score": 0
+            }
         ],
         "chipt": [
-            "pitch"
+            {
+                "word": "pitch",
+                "score": 0
+            }
         ],
         "ademr": [
-            "dream"
+            {
+                "word": "dream",
+                "score": 0
+            }
         ],
         "alott": [
-            "total"
+            {
+                "word": "total",
+                "score": 0
+            }
         ],
         "abcis": [
-            "basic"
+            {
+                "word": "basic",
+                "score": 0
+            }
         ],
         "ellms": [
-            "smell"
+            {
+                "word": "smell",
+                "score": 0
+            }
         ],
         "ackrt": [
-            "track"
+            {
+                "word": "track",
+                "score": 0
+            }
         ],
         "aforv": [
-            "favor"
+            {
+                "word": "favor",
+                "score": 0
+            }
         ],
         "denps": [
-            "spend"
+            {
+                "word": "spend",
+                "score": 0
+            }
         ],
         "cdhor": [
-            "chord"
+            {
+                "word": "chord",
+                "score": 0
+            }
         ],
         "aehrs": [
-            "share"
+            {
+                "word": "share",
+                "score": 0
+            }
         ],
         "abder": [
-            "bread"
+            {
+                "word": "bread",
+                "score": 0
+            }
         ],
         "effor": [
-            "offer"
+            {
+                "word": "offer",
+                "score": 0
+            }
         ],
         "aelsv": [
-            "slave"
+            {
+                "word": "slave",
+                "score": 0
+            }
         ],
         "cchik": [
-            "chick"
+            {
+                "word": "chick",
+                "score": 0
+            }
         ],
         "eemny": [
-            "enemy"
+            {
+                "word": "enemy",
+                "score": 0
+            }
         ],
         "elpry": [
-            "reply"
+            {
+                "word": "reply",
+                "score": 0
+            }
         ],
         "diknr": [
-            "drink"
+            {
+                "word": "drink",
+                "score": 0
+            }
         ],
         "ccoru": [
-            "occur"
+            {
+                "word": "occur",
+                "score": 0
+            }
         ],
         "aemst": [
-            "steam"
+            {
+                "word": "steam",
+                "score": 0
+            }
         ],
         "aemnt": [
-            "meant"
+            {
+                "word": "meant",
+                "score": 0
+            }
         ],
         "eehtt": [
-            "teeth"
+            {
+                "word": "teeth",
+                "score": 0
+            }
         ],
         "ehlls": [
-            "shell"
+            {
+                "word": "shell",
+                "score": 0
+            }
         ],
         "ehllo": [
-            "hello"
+            {
+                "word": "hello",
+                "score": 0
+            }
         ]
     },
     "6": {
         "bemnru": [
-            "number"
+            {
+                "word": "number",
+                "score": 0
+            }
         ],
         "eelopp": [
-            "people"
+            {
+                "word": "people",
+                "score": 0
+            }
         ],
         "eilltt": [
-            "little"
+            {
+                "word": "little",
+                "score": 0
+            }
         ],
         "deffir": [
-            "differ"
+            {
+                "word": "differ",
+                "score": 0
+            }
         ],
         "beefor": [
-            "before"
+            {
+                "word": "before",
+                "score": 0
+            }
         ],
         "flloow": [
-            "follow"
+            {
+                "word": "follow",
+                "score": 0
+            }
         ],
         "aceghn": [
-            "change"
+            {
+                "word": "change",
+                "score": 0
+            }
         ],
         "aailmn": [
-            "animal"
+            {
+                "word": "animal",
+                "score": 0
+            }
         ],
         "ehmort": [
-            "mother"
+            {
+                "word": "mother",
+                "score": 0
+            }
         ],
         "aefhrt": [
-            "father"
+            {
+                "word": "father",
+                "score": 0
+            }
         ],
         "dhlosu": [
-            "should"
+            {
+                "word": "should",
+                "score": 0
+            }
         ],
         "aenrsw": [
-            "answer"
+            {
+                "word": "answer",
+                "score": 0
+            }
         ],
         "chloos": [
-            "school"
+            {
+                "word": "school",
+                "score": 0
+            }
         ],
         "aalswy": [
-            "always"
+            {
+                "word": "always",
+                "score": 0
+            }
         ],
         "eelrtt": [
-            "letter"
+            {
+                "word": "letter",
+                "score": 0
+            }
         ],
         "cdenos": [
-            "second"
+            {
+                "word": "second",
+                "score": 0
+            }
         ],
         "definr": [
-            "friend"
+            {
+                "word": "friend",
+                "score": 0
+            }
         ],
         "eghnou": [
-            "enough"
+            {
+                "word": "enough",
+                "score": 0
+            }
         ],
         "ghhotu": [
-            "though"
+            {
+                "word": "though",
+                "score": 0
+            }
         ],
         "afilmy": [
-            "family"
+            {
+                "word": "family",
+                "score": 0
+            }
         ],
         "cdeirt": [
-            "direct"
+            {
+                "word": "direct",
+                "score": 0
+            }
         ],
         "aehnpp": [
-            "happen"
+            {
+                "word": "happen",
+                "score": 0
+            }
         ],
         "beertt": [
-            "better"
+            {
+                "word": "better",
+                "score": 0
+            }
         ],
         "dginru": [
-            "during"
+            {
+                "word": "during",
+                "score": 0
+            }
         ],
         "dgnoru": [
-            "ground"
+            {
+                "word": "ground",
+                "score": 0
+            }
         ],
         "eilnst": [
-            "listen",
-            "silent"
+            {
+                "word": "listen",
+                "score": 0
+            },
+            {
+                "word": "silent",
+                "score": 0
+            }
         ],
         "aelrtv": [
-            "travel"
+            {
+                "word": "travel",
+                "score": 0
+            }
         ],
         "eilmps": [
-            "simple"
+            {
+                "word": "simple",
+                "score": 0
+            }
         ],
         "adortw": [
-            "toward"
+            {
+                "word": "toward",
+                "score": 0
+            }
         ],
         "ceenrt": [
-            "center"
+            {
+                "word": "center",
+                "score": 0
+            }
         ],
         "enoprs": [
-            "person"
+            {
+                "word": "person",
+                "score": 0
+            }
         ],
         "aaeppr": [
-            "appear"
+            {
+                "word": "appear",
+                "score": 0
+            }
         ],
         "egnorv": [
-            "govern"
+            {
+                "word": "govern",
+                "score": 0
+            }
         ],
         "ceinot": [
-            "notice"
+            {
+                "word": "notice",
+                "score": 0
+            }
         ],
         "efgiru": [
-            "figure"
+            {
+                "word": "figure",
+                "score": 0
+            }
         ],
         "abetuy": [
-            "beauty"
+            {
+                "word": "beauty",
+                "score": 0
+            }
         ],
         "eimntu": [
-            "minute"
+            {
+                "word": "minute",
+                "score": 0
+            }
         ],
         "gnorst": [
-            "strong"
+            {
+                "word": "strong",
+                "score": 0
+            }
         ],
         "bdehin": [
-            "behind"
+            {
+                "word": "behind",
+                "score": 0
+            }
         ],
         "eerstt": [
-            "street"
+            {
+                "word": "street",
+                "score": 0
+            }
         ],
         "ceorsu": [
-            "course"
+            {
+                "word": "course",
+                "score": 0
+            }
         ],
         "bcejot": [
-            "object"
+            {
+                "word": "object",
+                "score": 0
+            }
         ],
         "cddeei": [
-            "decide"
+            {
+                "word": "decide",
+                "score": 0
+            }
         ],
         "adilns": [
-            "island"
+            {
+                "word": "island",
+                "score": 0
+            }
         ],
         "emssty": [
-            "system"
+            {
+                "word": "system",
+                "score": 0
+            }
         ],
         "cdeorr": [
-            "record"
+            {
+                "word": "record",
+                "score": 0
+            }
         ],
         "cmmnoo": [
-            "common"
+            {
+                "word": "common",
+                "score": 0
+            }
         ],
         "denorw": [
-            "wonder"
+            {
+                "word": "wonder",
+                "score": 0
+            }
         ],
         "aeeqtu": [
-            "equate"
+            {
+                "word": "equate",
+                "score": 0
+            }
         ],
         "eeginn": [
-            "engine"
+            {
+                "word": "engine",
+                "score": 0
+            }
         ],
         "eelstt": [
-            "settle"
+            {
+                "word": "settle",
+                "score": 0
+            }
         ],
         "eghitw": [
-            "weight"
+            {
+                "word": "weight",
+                "score": 0
+            }
         ],
         "aemrtt": [
-            "matter"
+            {
+                "word": "matter",
+                "score": 0
+            }
         ],
         "cceilr": [
-            "circle"
+            {
+                "word": "circle",
+                "score": 0
+            }
         ],
         "ddeiiv": [
-            "divide"
+            {
+                "word": "divide",
+                "score": 0
+            }
         ],
         "ddensu": [
-            "sudden"
+            {
+                "word": "sudden",
+                "score": 0
+            }
         ],
         "aeqrsu": [
-            "square"
+            {
+                "word": "square",
+                "score": 0
+            }
         ],
         "aenors": [
-            "reason"
+            {
+                "word": "reason",
+                "score": 0
+            }
         ],
         "eghlnt": [
-            "length"
+            {
+                "word": "length",
+                "score": 0
+            }
         ],
         "eginor": [
-            "region"
+            {
+                "word": "region",
+                "score": 0
+            }
         ],
         "eegnry": [
-            "energy"
+            {
+                "word": "energy",
+                "score": 0
+            }
         ],
         "eforst": [
-            "forest"
+            {
+                "word": "forest",
+                "score": 0
+            }
         ],
         "dinoww": [
-            "window"
+            {
+                "word": "window",
+                "score": 0
+            }
         ],
         "emmrsu": [
-            "summer"
+            {
+                "word": "summer",
+                "score": 0
+            }
         ],
         "einrtw": [
-            "winter"
+            {
+                "word": "winter",
+                "score": 0
+            }
         ],
         "bghirt": [
-            "bright"
+            {
+                "word": "bright",
+                "score": 0
+            }
         ],
         "fhiins": [
-            "finish"
+            {
+                "word": "finish",
+                "score": 0
+            }
         ],
         "eflorw": [
-            "flower"
+            {
+                "word": "flower",
+                "score": 0
+            }
         ],
         "cehlot": [
-            "clothe"
+            {
+                "word": "clothe",
+                "score": 0
+            }
         ],
         "eehirt": [
-            "either"
+            {
+                "word": "either",
+                "score": 0
+            }
         ],
         "elrstu": [
-            "result"
+            {
+                "word": "result",
+                "score": 0
+            }
         ],
         "aehprs": [
-            "phrase"
+            {
+                "word": "phrase",
+                "score": 0
+            }
         ],
         "efginr": [
-            "finger"
+            {
+                "word": "finger",
+                "score": 0
+            }
         ],
         "ceeitx": [
-            "excite"
+            {
+                "word": "excite",
+                "score": 0
+            }
         ],
         "ddeilm": [
-            "middle"
+            {
+                "word": "middle",
+                "score": 0
+            }
         ],
         "emmnot": [
-            "moment"
+            {
+                "word": "moment",
+                "score": 0
+            }
         ],
         "ginprs": [
-            "spring"
+            {
+                "word": "spring",
+                "score": 0
+            }
         ],
         "ainnot": [
-            "nation"
+            {
+                "word": "nation",
+                "score": 0
+            }
         ],
         "dehmot": [
-            "method"
+            {
+                "word": "method",
+                "score": 0
+            }
         ],
         "degins": [
-            "design"
+            {
+                "word": "design",
+                "score": 0
+            }
         ],
         "bmoott": [
-            "bottom"
+            {
+                "word": "bottom",
+                "score": 0
+            }
         ],
         "egilns": [
-            "single"
+            {
+                "word": "single",
+                "score": 0
+            }
         ],
         "enttwy": [
-            "twenty"
+            {
+                "word": "twenty",
+                "score": 0
+            }
         ],
         "aceers": [
-            "crease"
+            {
+                "word": "crease",
+                "score": 0
+            }
         ],
         "delmoy": [
-            "melody"
+            {
+                "word": "melody",
+                "score": 0
+            }
         ],
         "ceffio": [
-            "office"
+            {
+                "word": "office",
+                "score": 0
+            }
         ],
         "blmosy": [
-            "symbol"
+            {
+                "word": "symbol",
+                "score": 0
+            }
         ],
         "ceeptx": [
-            "except",
-            "expect"
+            {
+                "word": "except",
+                "score": 0
+            },
+            {
+                "word": "expect",
+                "score": 0
+            }
         ],
         "adegnr": [
-            "garden",
-            "danger"
+            {
+                "word": "garden",
+                "score": 0
+            },
+            {
+                "word": "danger",
+                "score": 0
+            }
         ],
         "cehoos": [
-            "choose"
+            {
+                "word": "choose",
+                "score": 0
+            }
         ],
         "eeglnt": [
-            "gentle"
+            {
+                "word": "gentle",
+                "score": 0
+            }
         ],
         "cdoort": [
-            "doctor"
+            {
+                "word": "doctor",
+                "score": 0
+            }
         ],
         "aeelps": [
-            "please"
+            {
+                "word": "please",
+                "score": 0
+            }
         ],
         "acelot": [
-            "locate"
+            {
+                "word": "locate",
+                "score": 0
+            }
         ],
         "ceinst": [
-            "insect"
+            {
+                "word": "insect",
+                "score": 0
+            }
         ],
         "acghtu": [
-            "caught"
+            {
+                "word": "caught",
+                "score": 0
+            }
         ],
         "deiopr": [
-            "period"
+            {
+                "word": "period",
+                "score": 0
+            }
         ],
         "ceefft": [
-            "effect"
+            {
+                "word": "effect",
+                "score": 0
+            }
         ],
         "demnor": [
-            "modern"
+            {
+                "word": "modern",
+                "score": 0
+            }
         ],
         "cenorr": [
-            "corner"
+            {
+                "word": "corner",
+                "score": 0
+            }
         ],
         "lppsuy": [
-            "supply"
+            {
+                "word": "supply",
+                "score": 0
+            }
         ],
         "aceert": [
-            "create"
+            {
+                "word": "create",
+                "score": 0
+            }
         ],
         "aehrrt": [
-            "rather"
+            {
+                "word": "rather",
+                "score": 0
+            }
         ],
         "ginrst": [
-            "string"
+            {
+                "word": "string",
+                "score": 0
+            }
         ],
         "ddeenp": [
-            "depend"
+            {
+                "word": "depend",
+                "score": 0
+            }
         ],
         "afmosu": [
-            "famous"
+            {
+                "word": "famous",
+                "score": 0
+            }
         ],
         "adllor": [
-            "dollar"
+            {
+                "word": "dollar",
+                "score": 0
+            }
         ],
         "aemrst": [
-            "stream",
-            "master"
+            {
+                "word": "stream",
+                "score": 0
+            },
+            {
+                "word": "master",
+                "score": 0
+            }
         ],
         "aelnpt": [
-            "planet"
+            {
+                "word": "planet",
+                "score": 0
+            }
         ],
         "clnooy": [
-            "colony"
+            {
+                "word": "colony",
+                "score": 0
+            }
         ],
         "acehrs": [
-            "search"
+            {
+                "word": "search",
+                "score": 0
+            }
         ],
         "ellowy": [
-            "yellow"
+            {
+                "word": "yellow",
+                "score": 0
+            }
         ],
         "deerst": [
-            "desert"
+            {
+                "word": "desert",
+                "score": 0
+            }
         ],
         "adeprs": [
-            "spread"
+            {
+                "word": "spread",
+                "score": 0
+            }
         ],
         "einntv": [
-            "invent"
+            {
+                "word": "invent",
+                "score": 0
+            }
         ],
         "cnoott": [
-            "cotton"
+            {
+                "word": "cotton",
+                "score": 0
+            }
         ],
         "accehn": [
-            "chance"
+            {
+                "word": "chance",
+                "score": 0
+            }
         ],
         "aeghrt": [
-            "gather"
+            {
+                "word": "gather",
+                "score": 0
+            }
         ],
         "clmnou": [
-            "column"
+            {
+                "word": "column",
+                "score": 0
+            }
         ],
         "ceelst": [
-            "select"
+            {
+                "word": "select",
+                "score": 0
+            }
         ],
         "aeeprt": [
-            "repeat"
+            {
+                "word": "repeat",
+                "score": 0
+            }
         ],
         "allpru": [
-            "plural"
+            {
+                "word": "plural",
+                "score": 0
+            }
         ],
         "egnoxy": [
-            "oxygen"
+            {
+                "word": "oxygen",
+                "score": 0
+            }
         ],
         "eprtty": [
-            "pretty"
+            {
+                "word": "pretty",
+                "score": 0
+            }
         ],
         "aenoss": [
-            "season"
+            {
+                "word": "season",
+                "score": 0
+            }
         ],
         "aegmnt": [
-            "magnet"
+            {
+                "word": "magnet",
+                "score": 0
+            }
         ],
         "eilrsv": [
-            "silver"
+            {
+                "word": "silver",
+                "score": 0
+            }
         ],
         "abchnr": [
-            "branch"
+            {
+                "word": "branch",
+                "score": 0
+            }
         ],
         "ffisux": [
-            "suffix"
+            {
+                "word": "suffix",
+                "score": 0
+            }
         ],
         "aadfir": [
-            "afraid"
+            {
+                "word": "afraid",
+                "score": 0
+            }
         ],
         "eirsst": [
-            "sister"
+            {
+                "word": "sister",
+                "score": 0
+            }
         ],
         "bghotu": [
-            "bought"
+            {
+                "word": "bought",
+                "score": 0
+            }
         ],
         "aellvy": [
-            "valley"
+            {
+                "word": "valley",
+                "score": 0
+            }
         ],
         "bdelou": [
-            "double"
+            {
+                "word": "double",
+                "score": 0
+            }
         ],
         "aeirrv": [
-            "arrive"
+            {
+                "word": "arrive",
+                "score": 0
+            }
         ],
         "aenprt": [
-            "parent"
+            {
+                "word": "parent",
+                "score": 0
+            }
         ],
         "aceghr": [
-            "charge"
+            {
+                "word": "charge",
+                "score": 0
+            }
         ],
         "eopprr": [
-            "proper"
+            {
+                "word": "proper",
+                "score": 0
+            }
         ],
         "aekmrt": [
-            "market"
+            {
+                "word": "market",
+                "score": 0
+            }
         ],
         "deeegr": [
-            "degree"
+            {
+                "word": "degree",
+                "score": 0
+            }
         ],
         "ceehps": [
-            "speech"
+            {
+                "word": "speech",
+                "score": 0
+            }
         ],
         "aenrtu": [
-            "nature"
+            {
+                "word": "nature",
+                "score": 0
+            }
         ],
         "imnoot": [
-            "motion"
+            {
+                "word": "motion",
+                "score": 0
+            }
         ],
         "diilqu": [
-            "liquid"
+            {
+                "word": "liquid",
+                "score": 0
+            }
         ]
     },
     "7": {
         "ghhortu": [
-            "through"
+            {
+                "word": "through",
+                "score": 0
+            }
         ],
         "ceiprtu": [
-            "picture"
+            {
+                "word": "picture",
+                "score": 0
+            }
         ],
         "cnortuy": [
-            "country"
+            {
+                "word": "country",
+                "score": 0
+            }
         ],
         "beeentw": [
-            "between"
+            {
+                "word": "between",
+                "score": 0
+            }
         ],
         "ghhottu": [
-            "thought"
+            {
+                "word": "thought",
+                "score": 0
+            }
         ],
         "aeelmpx": [
-            "example"
+            {
+                "word": "example",
+                "score": 0
+            }
         ],
         "cceeins": [
-            "science"
+            {
+                "word": "science",
+                "score": 0
+            }
         ],
         "aeemrsu": [
-            "measure"
+            {
+                "word": "measure",
+                "score": 0
+            }
         ],
         "cdoprtu": [
-            "product"
+            {
+                "word": "product",
+                "score": 0
+            }
         ],
         "aelmnru": [
-            "numeral"
+            {
+                "word": "numeral",
+                "score": 0
+            }
         ],
         "belmopr": [
-            "problem"
+            {
+                "word": "problem",
+                "score": 0
+            }
         ],
         "ddehnru": [
-            "hundred"
+            {
+                "word": "hundred",
+                "score": 0
+            }
         ],
         "gimnnor": [
-            "morning"
+            {
+                "word": "morning",
+                "score": 0
+            }
         ],
         "aeelrsv": [
-            "several"
+            {
+                "word": "several",
+                "score": 0
+            }
         ],
         "aaginst": [
-            "against"
+            {
+                "word": "against",
+                "score": 0
+            }
         ],
         "aenprtt": [
-            "pattern"
+            {
+                "word": "pattern",
+                "score": 0
+            }
         ],
         "aceinrt": [
-            "certain"
+            {
+                "word": "certain",
+                "score": 0
+            }
         ],
         "acehimn": [
-            "machine"
+            {
+                "word": "machine",
+                "score": 0
+            }
         ],
         "cceorrt": [
-            "correct"
+            {
+                "word": "correct",
+                "score": 0
+            }
         ],
         "acinnot": [
-            "contain"
+            {
+                "word": "contain",
+                "score": 0
+            }
         ],
         "deelopv": [
-            "develop"
+            {
+                "word": "develop",
+                "score": 0
+            }
         ],
         "aceilps": [
-            "special"
+            {
+                "word": "special",
+                "score": 0
+            }
         ],
         "cdeopru": [
-            "produce"
+            {
+                "word": "produce",
+                "score": 0
+            }
         ],
         "ghinnot": [
-            "nothing"
+            {
+                "word": "nothing",
+                "score": 0
+            }
         ],
         "acefrsu": [
-            "surface"
+            {
+                "word": "surface",
+                "score": 0
+            }
         ],
         "bghortu": [
-            "brought"
+            {
+                "word": "brought",
+                "score": 0
+            }
         ],
         "adinstt": [
-            "distant"
+            {
+                "word": "distant",
+                "score": 0
+            }
         ],
         "eenprst": [
-            "present"
+            {
+                "word": "present",
+                "score": 0
+            }
         ],
         "aeeglnr": [
-            "general"
+            {
+                "word": "general",
+                "score": 0
+            }
         ],
         "cdeilnu": [
-            "include"
+            {
+                "word": "include",
+                "score": 0
+            }
         ],
         "aehpprs": [
-            "perhaps"
+            {
+                "word": "perhaps",
+                "score": 0
+            }
         ],
         "bcejstu": [
-            "subject"
+            {
+                "word": "subject",
+                "score": 0
+            }
         ],
         "behorrt": [
-            "brother"
+            {
+                "word": "brother",
+                "score": 0
+            }
         ],
         "beeeilv": [
-            "believe"
+            {
+                "word": "believe",
+                "score": 0
+            }
         ],
         "einrttw": [
-            "written"
+            {
+                "word": "written",
+                "score": 0
+            }
         ],
         "aeehrtw": [
-            "weather"
+            {
+                "word": "weather",
+                "score": 0
+            }
         ],
         "iillmno": [
-            "million"
+            {
+                "word": "million",
+                "score": 0
+            }
         ],
         "aegnrst": [
-            "strange"
+            {
+                "word": "strange",
+                "score": 0
+            }
         ],
         "aegillv": [
-            "village"
+            {
+                "word": "village",
+                "score": 0
+            }
         ],
         "eehhrtw": [
-            "whether"
+            {
+                "word": "whether",
+                "score": 0
+            }
         ],
         "cenrtuy": [
-            "century"
+            {
+                "word": "century",
+                "score": 0
+            }
         ],
         "aalnrtu": [
-            "natural"
+            {
+                "word": "natural",
+                "score": 0
+            }
         ],
         "beeorsv": [
-            "observe"
+            {
+                "word": "observe",
+                "score": 0
+            }
         ],
         "ceinost": [
-            "section"
+            {
+                "word": "section",
+                "score": 0
+            }
         ],
         "ceeeirv": [
-            "receive"
+            {
+                "word": "receive",
+                "score": 0
+            }
         ],
         "belortu": [
-            "trouble"
+            {
+                "word": "trouble",
+                "score": 0
+            }
         ],
         "eggsstu": [
-            "suggest"
+            {
+                "word": "suggest",
+                "score": 0
+            }
         ],
         "ccellot": [
-            "collect"
+            {
+                "word": "collect",
+                "score": 0
+            }
         ],
         "clnoort": [
-            "control"
+            {
+                "word": "control",
+                "score": 0
+            }
         ],
         "acdeilm": [
-            "decimal"
+            {
+                "word": "decimal",
+                "score": 0
+            }
         ],
         "aacinpt": [
-            "captain"
+            {
+                "word": "captain",
+                "score": 0
+            }
         ],
         "ceoprtt": [
-            "protect"
+            {
+                "word": "protect",
+                "score": 0
+            }
         ],
         "hiorsty": [
-            "history"
+            {
+                "word": "history",
+                "score": 0
+            }
         ],
         "eeelmnt": [
-            "element"
+            {
+                "word": "element",
+                "score": 0
+            }
         ],
         "densttu": [
-            "student"
+            {
+                "word": "student",
+                "score": 0
+            }
         ],
         "aegiimn": [
-            "imagine"
+            {
+                "word": "imagine",
+                "score": 0
+            }
         ],
         "deioprv": [
-            "provide"
+            {
+                "word": "provide",
+                "score": 0
+            }
         ],
         "aacilpt": [
-            "capital"
+            {
+                "word": "capital",
+                "score": 0
+            }
         ],
         "deilors": [
-            "soldier"
+            {
+                "word": "soldier",
+                "score": 0
+            }
         ],
         "ceoprss": [
-            "process"
+            {
+                "word": "process",
+                "score": 0
+            }
         ],
         "aeeoprt": [
-            "operate"
+            {
+                "word": "operate",
+                "score": 0
+            }
         ],
         "acemopr": [
-            "compare"
+            {
+                "word": "compare",
+                "score": 0
+            }
         ],
         "cenrrtu": [
-            "current"
+            {
+                "word": "current",
+                "score": 0
+            }
         ],
         "ccesssu": [
-            "success"
+            {
+                "word": "success",
+                "score": 0
+            }
         ],
         "acmnopy": [
-            "company"
+            {
+                "word": "company",
+                "score": 0
+            }
         ],
         "aaegnrr": [
-            "arrange"
+            {
+                "word": "arrange",
+                "score": 0
+            }
         ],
         "cehrstt": [
-            "stretch"
+            {
+                "word": "stretch",
+                "score": 0
+            }
         ],
         "eeiqrru": [
-            "require"
+            {
+                "word": "require",
+                "score": 0
+            }
         ],
         "aeepprr": [
-            "prepare"
+            {
+                "word": "prepare",
+                "score": 0
+            }
         ],
         "cdisssu": [
-            "discuss"
+            {
+                "word": "discuss",
+                "score": 0
+            }
         ],
         "adforrw": [
-            "forward"
+            {
+                "word": "forward",
+                "score": 0
+            }
         ],
         "aiilmrs": [
-            "similar"
+            {
+                "word": "similar",
+                "score": 0
+            }
         ],
         "eeginnv": [
-            "evening"
+            {
+                "word": "evening",
+                "score": 0
+            }
         ],
         "ccennot": [
-            "connect"
+            {
+                "word": "connect",
+                "score": 0
+            }
         ],
         "ainostt": [
-            "station"
+            {
+                "word": "station",
+                "score": 0
+            }
         ],
         "eegmnst": [
-            "segment"
+            {
+                "word": "segment",
+                "score": 0
+            }
         ],
         "ainnstt": [
-            "instant"
+            {
+                "word": "instant",
+                "score": 0
+            }
         ],
         "opprstu": [
-            "support"
+            {
+                "word": "support",
+                "score": 0
+            }
         ]
     },
     "8": {
         "ceeennst": [
-            "sentence"
+            {
+                "word": "sentence",
+                "score": 0
+            }
         ],
         "eeghortt": [
-            "together"
+            {
+                "word": "together",
+                "score": 0
+            }
         ],
         "cdehilnr": [
-            "children"
+            {
+                "word": "children",
+                "score": 0
+            }
         ],
         "aimnnotu": [
-            "mountain"
+            {
+                "word": "mountain",
+                "score": 0
+            }
         ],
         "einoqstu": [
-            "question"
+            {
+                "word": "question",
+                "score": 0
+            }
         ],
         "ceelmopt": [
-            "complete"
+            {
+                "word": "complete",
+                "score": 0
+            }
         ],
         "beeemmrr": [
-            "remember"
+            {
+                "word": "remember",
+                "score": 0
+            }
         ],
         "eeinrstt": [
-            "interest"
+            {
+                "word": "interest",
+                "score": 0
+            }
         ],
         "illmptuy": [
-            "multiply"
+            {
+                "word": "multiply",
+                "score": 0
+            }
         ],
         "beilopss": [
-            "possible"
+            {
+                "word": "possible",
+                "score": 0
+            }
         ],
         "adhnostu": [
-            "thousand"
+            {
+                "word": "thousand",
+                "score": 0
+            }
         ],
         "aaegglnu": [
-            "language"
+            {
+                "word": "language",
+                "score": 0
+            }
         ],
         "iinoopst": [
-            "position"
+            {
+                "word": "position",
+                "score": 0
+            }
         ],
         "aaeilmrt": [
-            "material"
+            {
+                "word": "material",
+                "score": 0
+            }
         ],
         "abelllsy": [
-            "syllable"
+            {
+                "word": "syllable",
+                "score": 0
+            }
         ],
         "abbelopr": [
-            "probable"
+            {
+                "word": "probable",
+                "score": 0
+            }
         ],
         "acfinort": [
-            "fraction"
+            {
+                "word": "fraction",
+                "score": 0
+            }
         ],
         "ceeeirsx": [
-            "exercise"
+            {
+                "word": "exercise",
+                "score": 0
+            }
         ],
         "bcdeeirs": [
-            "describe"
+            {
+                "word": "describe",
+                "score": 0
+            }
         ],
         "cdeinors": [
-            "consider"
+            {
+                "word": "consider",
+                "score": 0
+            }
         ],
         "dinrstuy": [
-            "industry"
+            {
+                "word": "industry",
+                "score": 0
+            }
         ],
         "aghirstt": [
-            "straight"
+            {
+                "word": "straight",
+                "score": 0
+            }
         ],
         "eiprrssu": [
-            "surprise"
+            {
+                "word": "surprise",
+                "score": 0
+            }
         ],
         "acceiprt": [
-            "practice"
+            {
+                "word": "practice",
+                "score": 0
+            }
         ],
         "aaeeprst": [
-            "separate"
+            {
+                "word": "separate",
+                "score": 0
+            }
         ],
         "acdeiint": [
-            "indicate"
+            {
+                "word": "indicate",
+                "score": 0
+            }
         ],
         "cceeilrt": [
-            "electric"
+            {
+                "word": "electric",
+                "score": 0
+            }
         ],
         "beghinor": [
-            "neighbor"
+            {
+                "word": "neighbor",
+                "score": 0
+            }
         ],
         "aegilnrt": [
-            "triangle"
+            {
+                "word": "triangle",
+                "score": 0
+            }
         ],
         "ceinnotu": [
-            "continue"
+            {
+                "word": "continue",
+                "score": 0
+            }
         ],
         "abcrsttu": [
-            "subtract"
+            {
+                "word": "subtract",
+                "score": 0
+            }
         ],
         "eiooppst": [
-            "opposite"
+            {
+                "word": "opposite",
+                "score": 0
+            }
         ],
         "dehlorsu": [
-            "shoulder"
+            {
+                "word": "shoulder",
+                "score": 0
+            }
         ],
         "eopprrty": [
-            "property"
+            {
+                "word": "property",
+                "score": 0
+            }
         ],
         "ceellmou": [
-            "molecule"
+            {
+                "word": "molecule",
+                "score": 0
+            }
         ],
         "ilnoostu": [
-            "solution"
+            {
+                "word": "solution",
+                "score": 0
+            }
         ],
         "diiinosv": [
-            "division"
+            {
+                "word": "division",
+                "score": 0
+            }
         ],
         "agiilnor": [
-            "original"
+            {
+                "word": "original",
+                "score": 0
+            }
         ],
         "aelopptu": [
-            "populate"
+            {
+                "word": "populate",
+                "score": 0
+            }
         ],
         "einoqttu": [
-            "quotient"
+            {
+                "word": "quotient",
+                "score": 0
+            }
         ]
     },
     "9": {
         "eeenprrst": [
-            "represent"
+            {
+                "word": "represent",
+                "score": 0
+            }
         ],
         "aaaghpprr": [
-            "paragraph"
+            {
+                "word": "paragraph",
+                "score": 0
+            }
         ],
         "acnnnoost": [
-            "consonant"
+            {
+                "word": "consonant",
+                "score": 0
+            }
         ],
         "cdffiiltu": [
-            "difficult"
+            {
+                "word": "difficult",
+                "score": 0
+            }
         ],
         "aaccehrrt": [
-            "character"
+            {
+                "word": "character",
+                "score": 0
+            }
         ],
         "aceenrssy": [
-            "necessary"
+            {
+                "word": "necessary",
+                "score": 0
+            }
         ],
         "deeeimnrt": [
-            "determine"
+            {
+                "word": "determine",
+                "score": 0
+            }
         ],
         "ceinnnott": [
-            "continent"
+            {
+                "word": "continent",
+                "score": 0
+            }
         ],
         "cdiinnoot": [
-            "condition"
+            {
+                "word": "condition",
+                "score": 0
+            }
         ],
         "abcensstu": [
-            "substance"
+            {
+                "word": "substance",
+                "score": 0
+            }
         ]
     },
     "10": {
         "eimnnrsttu": [
-            "instrument"
+            {
+                "word": "instrument",
+                "score": 0
+            }
         ],
         "acdiinorty": [
-            "dictionary"
+            {
+                "word": "dictionary",
+                "score": 0
+            }
         ],
         "eeeimnprtx": [
-            "experiment"
+            {
+                "word": "experiment",
+                "score": 0
+            }
         ],
         "aacilprrtu": [
-            "particular"
+            {
+                "word": "particular",
+                "score": 0
+            }
         ],
         "aceeillpsy": [
-            "especially"
+            {
+                "word": "especially",
+                "score": 0
+            }
         ],
         "ceeeeinprx": [
-            "experience"
+            {
+                "word": "experience",
+                "score": 0
+            }
         ]
     },
     "11": {
         "aeeemprrttu": [
-            "temperature"
+            {
+                "word": "temperature",
+                "score": 0
+            }
         ]
     }
 }
